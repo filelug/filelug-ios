@@ -1,0 +1,8 @@
+/* Localized versions of Info.plist keys */
+"CFBundleDisplayName" = "Filelug";
+
+"CFBundleName" = "Filelug";
+
+"NSPhotoLibraryUsageDescription" = "This lets you choose photos to transfer to your computer.";
+
+"NSCameraUsageDescription" = "This lets you scan QR code to connect to a new computer.";

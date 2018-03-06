@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[AppDelegate application:didFinishLaunchingWithOptions:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[groupUserDefaults objectForKey:USER_DEFAULTS_KEY_ALLOW_RECEIVE_NOTIFICATION].boolValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[FilelugUtility registerNotificationWithApplication:]:FilelugUtility.m">
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "notificationSettings.types">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__65-[DownloadFileViewController downloadFileWithFailedFileTransfer:]_block_invoke_2.491:DownloadFileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[failedFileTransfer.totalSize unsignedLongLongValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FileInfoViewController prepareTableViewCells]:FileInfoViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.openFile">
+            </PersistentString>
+            <PersistentString
+               value = "self.filename">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ShareViewController tableView:heightForRowAtIndexPath:]:ShareViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.preferredContentSizeCategoryService isLargeContentSizeCategory]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SettingsViewController prepareTableViewCells]:SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self prepareUploadDirectory]">
+            </PersistentString>
+            <PersistentString
+               value = "[self prepareUploadSubdirectoryDisplayText]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EnterShareViewController viewDidAppear:]:EnterShareViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "filePaths">
+            </PersistentString>
+            <PersistentString
+               value = "[[itemProvider registeredTypeIdentifiers] description]">
+            </PersistentString>
+            <PersistentString
+               value = "extensionItem.userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Utility needShowStartupViewController]:Utility.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(NSString *)[userDefaults stringForKey:USER_DEFAULTS_KEY_USER_ID]">
+            </PersistentString>
+            <PersistentString
+               value = "[userDefaults objectForKey:USER_DEFAULTS_KEY_USER_ID]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TutorialContentViewController reloadWithIndex:]:TutorialContentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_backgroundColors[(NSUInteger) index]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FileUploadSummaryViewController viewWillAppear:]:FileUploadSummaryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.directory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TutorialViewController viewDidLoad]:TutorialViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__77-[DownloadFileViewController downloadOrCancelActionWithTitle:realServerPath:]_block_invoke.348:DownloadFileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[fileTransferWithoutManaged.totalSize integerValue]">
+            </PersistentString>
+            <PersistentString
+               value = "[fileTransferWithoutManaged.transferredSize integerValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FileInfoViewController tableView:cellForRowAtIndexPath:]:FileInfoViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "rowDictionary[@&quot;label_text&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__56-[DirectoryService confirmUploadsWithCompletionHandler:]_block_invoke:DirectoryService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[transferKeyAndStatusDictionary description]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuTabBarController tabBarController:shouldSelectViewController:]:MenuTabBarController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[controller viewControllers]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FKEditingPackedUploadDescriptionViewController saveText:]:FKEditingPackedUploadDescriptionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.uploadDescriptionDataSource.needPersistIfChanged">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NSURLSession(CorrectedResumeData) correctedDownloadTaskWithResumeData:]:NSURLSession+CorrectedResumeData.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FileTransferService URLSession:downloadTask:didFinishDownloadingToURL:]:FileTransferService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fileDownloadServiceDelegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[FilelugUtility alertNoComputerEverConnectedWithViewController:delayInSeconds:]:FilelugUtility.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[viewController presentedViewController]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__83-[FileTransferService resumeDownloadWithRealFilePath:resumeData:completionHandler:]_block_invoke_2:FileTransferService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "newDownloadTask.taskDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Utility isDeviceVersion10OrLater]:Utility.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[UIDevice currentDevice] systemVersion]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SettingsViewController viewWillAppear:]:SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.uploadDirectory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__49-[AssetsLibraryViewController prepareAssetGroups]_block_invoke:AssetsLibraryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[collection estimatedAssetCount]">
+            </PersistentString>
+            <PersistentString
+               value = "collection.localizedTitle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__32-[FilePreviewController preview]_block_invoke:FilePreviewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fromViewController.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DPCenterViewController onDidWriteData:totalBytesWritten:totalBytesExpectedToWrite:transferKey:filename:]:DPCenterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.downloading">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:didRegisterUserNotificationSettings:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[notificationSettings categories]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__42-[EnterShareViewController viewDidAppear:]_block_invoke:EnterShareViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__90+[FilelugUtility previewDownloadedFileWithRealFilePath:fromViewController:delayInSeconds:]_block_invoke:FilelugUtility.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "filePreviewController.fileAbsolutePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FilePreviewController preview]:FilePreviewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fileAbsolutePath">
+            </PersistentString>
+            <PersistentString
+               value = "previewController.navigationItem.rightBarButtonItems">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Utility deleteUserDataWithUserDefaults:]:Utility.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[userDefaults objectForKey:USER_DEFAULTS_KEY_USER_ID]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RootDirectoryViewController prepareDirectories]:RootDirectoryViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sessionId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FileTransferService internalDownlaodFileWithTransferKey:realServerPath:fileSeparator:downloadGroupId:userComputerId:sessionId:actionsAfterDownload:addToStartTimestampWithMilliseconds:completionHandler:]:FileTransferService.m">
+      </ContextState>
+      <ContextState
+         contextName = "__145-[SettingsViewController userDidLoginSuccessfullyFromViewController:response:responseData:authorizationCode:state:needCreateOrUpdateUserProfile:]_block_invoke_2:SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FileProvider fileCoordinator]:FileProvider.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self providerIdentifier]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FileTransferService URLSession:task:didCompleteWithError:]:FileTransferService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[[UIDevice currentDevice] systemVersion] floatValue]">
+            </PersistentString>
+            <PersistentString
+               value = "error.userInfo.description">
+            </PersistentString>
+            <PersistentString
+               value = "[Utility isDeviceVersion10Or10_1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ShareViewController moveFilesToExternalRootDirectory]:ShareViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[fileURL path]">
+            </PersistentString>
+            <PersistentString
+               value = "[fileURL lastPathComponent]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AssetsPreviewViewController toggleNavigationBar:]:AssetsPreviewViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.shouldStatusBarHidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__53-[AssetsPreviewViewController playerItemDidReachEnd:]_block_invoke:AssetsPreviewViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.shouldStatusBarHidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DocumentPickerViewController viewDidLoad]:DocumentPickerViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.documentStorageURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DPCenterViewController onDidCompleteWithFileTransferStatus:transferKey:localPath:filename:]:DPCenterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.downloading">
+            </PersistentString>
+            <PersistentString
+               value = "self.downloadProgressView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__108-[TutorialViewController pageViewController:didFinishAnimating:previousViewControllers:transitionCompleted:]_block_invoke:TutorialViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

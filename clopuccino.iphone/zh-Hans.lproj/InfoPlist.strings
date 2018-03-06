@@ -1,0 +1,8 @@
+/* Localized versions of Info.plist keys */
+"CFBundleDisplayName" = "Filelug";
+
+"CFBundleName" = "Filelug";
+
+"NSPhotoLibraryUsageDescription" = "这样可让你选择照片传送到你的电脑。";
+
+"NSCameraUsageDescription" = "这让你使用扫描二维码方式连结新电脑。";

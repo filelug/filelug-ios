@@ -1,0 +1,1354 @@
+"OK" = "確定";
+
+"Re-login" = "重新連線";
+
+"NO" = "否";
+
+"YES" = "是";
+
+"Cancel" = "取消";
+
+"Close Window" = "關閉視窗";
+
+"Try Again" = "再試一次";
+
+"Try Later" = "稍後再試";
+
+"Try Delete Again" = "嘗試再刪除";
+
+"Try Download Again" = "嘗試再下載";
+
+"Try Open Again" = "嘗試再開啟";
+
+"Done" = "完成";
+
+"Next" = "下一個";
+
+"Previous" = "上一個";
+
+"Choose" = "選擇";
+
+"file" = "檔案";
+
+"path" = "路徑";
+
+"Path" = "路徑";
+
+"Name" = "名稱";
+
+"Readable" = "讀";
+
+"Writable" = "寫";
+
+"Executable" = "執行";
+
+"Hidden" = "隱藏";
+
+"Permission YES" = "有權限";
+
+"Permission NO" = "無權限";
+
+"Hidden YES" = "隱藏檔";
+
+"Hidden NO" = "非隱藏檔";
+
+"Edit" = "編輯";
+
+"directory" = "資料夾";
+
+"file" = "檔案";
+
+"bundle_directory_file" = "資料夾：可使用其他應用程式開啟";
+
+"Bookmark" = "書籤";
+
+"BookmarkManager" = "書籤管理";
+
+"New Bookmark" = "新增書籤";
+
+"Edit Bookmark" = "編輯書籤";
+
+"Create" = "建立";
+
+"My Bookmark" = "我的書籤";
+
+"Delete Bookmark" = "刪除書籤";
+
+"Delete This Bookmark" = "刪除此書籤";
+
+"Release to refresh..." = "放開螢幕以更新";
+
+"Pull to refresh" = "下拉螢幕以更新";
+
+"Refresh" = "更新資料";
+
+"Loading..." = "載入中";
+
+"Initializing Filelug" = "正在啟動 Filelug 檔隨傳，請稍候。";
+
+"Login failed. %@ Status:%d" = "登入失敗。\n%1$@\n狀態碼：%2$d";
+
+"Login failed. %@" = "登入失敗。\n%@";
+
+"Login failed. Try later." = "登入失敗。請稍後再試。";
+
+"Login failed." = "登入失敗。";
+
+"Connection Busy" = "無法連線。原因可能是網路太慢或者電腦「%1$@」網路不通。";
+
+"Connection Busy2" = "無法連線。原因可能是網路太慢或者待連線電腦網路不通。";
+
+"Connection not exists" = "連線失敗";
+
+"Error on parsing data: %@\n%@" = "無法解析資料：%1$@\n%2$@";
+
+"Error on listing files and sub-directories.\n%@" = "無法列出檔案與子資料夾。\n%1$@";
+
+"Error on listing files and sub-directories. Status:%d.\n%@" = "無法列出檔案與子資料夾。狀態碼：%1$d.\n%2$@";
+
+"Permission Denied" = "權限不足";
+
+"Failed to remove local file:%@.\n%@" = "無法移除本地端檔案：%1$@.\n%2$@";
+
+"Failed to move file from:%@ to:%@.\n%@" = "無法將檔案從：%1$@ 搬移到：%2$@.\n%3$@";
+
+"Failed to update attributes of file:%@.\n%@" = "無法更新檔案屬性。檔案：%1$@.\n%2$@";
+
+"Failed to remove existing file:%@.\n%@" = "無法刪除目前已存在的檔案：%1$@.\n%2$@";
+
+"Failed to copy file from:%@ to:%@.\n%@" = "無法將檔案從：%1$@ 複製到：%2$@.\n%3$@";
+
+"Incorrect bookmark information.\n%@" = "書籤資料格式錯誤。\n%1$@";
+
+"Can't find bookmarks.\n%@" = "找不到書籤。\n%1$@";
+
+"Can't create bookmark." = "無法建立書籤。";
+
+"Can't update bookmark." = "無法更新書籤。";
+
+"Can't delete bookmark." = "無法刪除書籤。";
+
+"Error on finding all bookmark changes.\nStatus:%d\n%@" = "無法取得所有書籤異動資訊。\n狀態碼：%1$d\n%2$@";
+
+"Bookmark ID: %@" = "書籤編號：%1$@";
+
+"Incorrect directory information.\n%@" = "資料夾資料格式錯誤。\n%1$@";
+
+"Can't find directory roots.\n%@" = "找不到根資料夾。\n%1$@";
+
+"Directory not found:\n%@" = "找不到資料夾：\n%1$@";
+
+"Server Address" = "伺服器位址";
+
+"Login Account" = "使用者登入";
+
+"Connect to the demonstration computer" = "連線到示範機";
+
+"Domain" = "網址";
+
+"Domain Placehoder" = "my.domain.com";
+
+"Port" = "連接埠";
+
+"Port Placehoder" = "8080";
+
+"Email" = "電子郵件";
+
+"Email Placeholder" = "name@domain.com";
+
+"Password" = "密碼";
+
+"Confirm Password" = "確認密碼";
+
+"showHidden" = "是否顯示隱藏檔";
+
+"Settings" = "設定";
+
+"Login" = "登入";
+
+"Clear Caches" = "清空暫存資料";
+
+"Others" = "其他";
+
+"Port can not be empty" = "連線埠(port)不能是空值";
+
+"Email can not be empty" = "電子郵件(email)不能是空值";
+
+"Invalid country id" = "國家代碼不可為空值";
+
+"Invalid phone number" = "手機號碼不可為空值";
+
+"Invalid nickname" = "暱稱不可為空值";
+
+"Same nickname" = "新的暱稱與目前的相同";
+
+"Password can not be empty" = "密碼(password)不能是空值";
+
+"Computer can not be empty" = "尚未設定連線電腦";
+
+"Invalid security code" = "驗證碼不可為空值";
+
+"Specify a file to open" = "未指定要開啓的檔案";
+
+"Open File" = "開啓檔案";
+
+"Open File2" = "開啓檔案（%.0f%%）";
+
+"Open File3" = "開啓檔案（%@）";
+
+"Delete File" = "刪除檔案";
+
+"Create Bookmark" = "建立書籤";
+
+"Bookmark Name" = "書籤名稱";
+
+"File Tasks" = "工作";
+
+"File Permissions" = "存取權限";
+
+"File Size" = "檔案大小";
+
+"File Size: %@" = "檔案大小：%@";
+
+"File Size To Open: %@" = "開啓檔案大小：\n%@";
+
+"File Size To Share: %@" = "複製到分享區檔案大小：\n%@";
+
+"Mime Type" = "mime類型";
+
+"Last Modified Date" = "最近修改日期";
+
+"Parent Directory" = "父資料夾";
+
+"Incorrect file information.\n%@" = "檔案資料格式錯誤。\n%1$@";
+
+"No File Found at:%@.\n%@" = "找不到檔案：%1$@.\n%2$@";
+
+"No File Selected" = "尚未選擇檔案";
+
+"Error Get File Information:%@.\nStatus:%d\n%@" = "取得檔案資訊時發生錯誤：%1$@.\n狀態碼：%2$d\n%3$@";
+
+"Confirm Deleting File '%@'" = "確認刪除檔案 '%1$@'？";
+
+"Failed Save Downloaded Data.\n%@" = "無法儲存已下載資料.\n%1$@";
+
+"Connection Failed.\n%@" = "連線失敗。\n%1$@";
+
+"Preview File" = "預覽檔案";
+
+"Can't preview this file." = "無法預覽此檔案。\n檔案可能已被刪除。";
+
+"Failed to remove file:%@.\n%@" = "無法移除檔案：%1$@.\n%2$@";
+
+"Failed to create directory:%@.\n%@" = "無法建立資料夾：%1$@.\n%2$@";
+
+"Failed to update last modified date for file:%@.\n%@" = "無法更新檔案的最後修改日期：%1$@.\n%2$@";
+
+"Can't connect to server.\ndomain:%@\nport:%@" = "無法連接伺服器。\n網址(domain)：%1$@\n連線埠(port)：%2S@";
+
+"Can't browse this directory.\n%@" = "無法瀏覽這個資料夾。\n%1$@";
+
+"Can't browse this directory.\nStatus:%d\n%@" = "無法瀏覽這個資料夾。\n狀態碼：%1$d\n%2$@";
+
+"Can't delete bookmark because there's no bookmark id" = "無法刪除書籤，因為找不到書籤編號";
+
+"Bookmark created:\nName:%@\nPath:%@" = "書籤建立完成。\n書籤名稱：%1$@\n書籤路徑：%2$@";
+
+"File '%@' delete successfully" = "成功刪除檔案 '%1$@'";
+
+"Failed to delete file '%@'\n%@" = "檔案 '%1$@' 刪除失敗。\n%2$@";
+
+"Failed to delete file '%@'.\nStatus:%d\n%@" = "檔案 '%1$@' 刪除失敗。\n狀態碼：%2$d\n%3$@";
+
+"Invalid session and need re-login" = "連線逾期，請重新登入";
+
+"Session not found and need login" = "您尚未登入。請先登入。";
+
+"Session not found. Go login" = "您尚未登入。請先點選「%@」>「%@」以登入。";
+
+"Your session has timed out. Please sign in again." = "連線逾時。請重新登入。";
+
+"Login Now" = "立即登入";
+
+"Login Again" = "重新登入";
+
+"Connect Now" = "立即連線";
+
+"Choose Account to Login" = "選擇帳號登入";
+
+"Choose Account to Delete" = "選擇要刪除的帳號";
+
+"No Saved Account Information" = "尚未有儲存的帳號資訊。";
+
+"Empty Bookmark Name" = "書籤名稱不可為空值";
+
+"Empty Bookmark Path" = "書籤路徑不可為空值";
+
+"RootDirectoryViewController Title From BookmarkDetail" = "選擇資料夾";
+
+"Default Root Directory Name" = "用戶主資料夾";
+
+"Error on finding directory children." = "找不到子資料夾與檔案。";
+
+"Select to browse" = "點選以瀏覽";
+
+"Select to browse. Pull to refresh" = "點選以瀏覽，下拉螢幕以更新。";
+
+"Recently accessed folders" = "最近存取的資料夾";
+
+"Select one directory or file" = "選擇資料夾或檔案";
+
+"Invalid email" = "電子郵件格式錯誤";
+
+"Password does not match the confirm password" = "密碼與確認密碼不相符";
+
+"CONNECT" = "連線";
+
+"Prompt On Success Registration" = "我們已經發送確認信至您的帳號「%@」。\n點選「%@」按鍵前，請先完成確認信中所述必要步驟。";
+
+"Successfully sent security code to %@" = "驗證碼已發送至：%@";
+
+"Failed to send security code. Status:%d. %@" = "驗證碼發送失敗。\n狀態碼：%d\n%@";
+
+"Failed to send security code." = "驗證碼發送失敗。";
+
+"Failed to send security code. Please try again later. %@" = "驗證碼發送失敗。請稍候再試試。\n%@";
+
+"File Name" = "檔案名稱";
+
+"Directory" = "資料夾";
+
+"Information" = "資訊";
+
+"Permission" = "權限";
+
+"File Parent Path" = "檔案所在資料夾路徑";
+
+"Copy" = "複製";
+
+"Rename Title" = "變更檔名";
+
+"Rename Again" = "再變更檔名";
+
+"User %@ not registered" = "使用者「%@」尚未註冊";
+
+"User not registered" = "使用者尚未註冊";
+
+"Register" = "註冊";
+
+"Verify" = "驗證";
+
+"Identification" = "確認身份";
+
+"Register Now" = "立即註冊";
+
+"Click to download file" = "點選以下載檔案";
+
+"File downloaded" = "檔案已下載";
+
+"File already exists. if download again?" = "檔案已存在。是否重新下載？";
+
+"Downloaded" = "已下載";
+
+"File uploaded" = "檔案已上傳";
+
+"Download Preparing" = "準備下載";
+
+"Upload Preparing" = "準備上傳";
+
+"Confirming" = "確認狀態中";
+
+"File is downloading" = "檔案下載中";
+
+"Downloading (%.0f%%)" = "下載中（%.0f%%）";
+
+"Download status %@" = "下載狀態：%@";
+
+"File is downloading. Keep waiting?" = "檔案下載中。是否繼續等待並稍後再試？";
+
+"File is uploading" = "檔案上傳中";
+
+"File is uploading2" = "檔案上傳中。\n可至「%@」檢視上傳進度。";
+
+"File is uploading in extension" = "檔案上傳中。\n可開啟 Filelug，至「%@」檢視上傳進度。";
+
+"Uploaded failed. Try again later" = "檔案上傳失敗。請稍候再試。";
+
+"Failed to upload file. Please delete this upload and upload again." = "檔案上傳失敗。請刪除此上傳資料後再重新上傳。";
+
+"Some files failed to upload" = "%d 個檔案上傳失敗。\n可至「%@」檢視其餘檔案上傳進度。";
+
+"Some files failed to upload in extension" = "%d 個檔案上傳失敗。\n可開啟 Filelug，至「%@」檢視其餘檔案上傳進度。";
+
+"Download suspended" = "檔案暫停下載";
+
+"Downloaded failed" = "下載失敗";
+
+"Uploaded failed" = "檔案上傳失敗";
+
+"Download canceling" = "檔案下載取消中";
+
+"Canceling" = "取消中";
+
+"Upload canceling" = "檔案上傳取消中";
+
+"Open File" = "開啓檔案";
+
+"Download Again" = "重新下載";
+
+"Use Existing File" = "使用目前檔案";
+
+"Download File" = "下載檔案";
+
+"Download" = "下載";
+
+"Download(%lu)" = "下載(%lu)";
+
+"Keep Waiting" = "繼續等待";
+
+"Suspend Download" = "暫停下載";
+
+"Cancel Download" = "取消下載";
+
+"Resume Download" = "恢復下載";
+
+"Download File First" = "檔案尚未下載。是否先下載此檔案？";
+
+"Not downloaded yet" = "尚未下載";
+
+"Click add button to apply" = "點選左方（+）按鍵以套用路徑";
+
+"Select multiple files to download" = "可選擇多個檔案同時下載";
+
+"Click add button to upload file to the directory" = "點選左方（+）按鍵以選擇上傳到此資料夾";
+
+"Click add button to set bookmark path" = "點選左方（+）按鍵以設定書籤路徑";
+
+"Select to browse or click add button to apply" = "點選檔名以瀏覽，或點選左方（+）按鍵以套用路徑";
+
+"Download File With Status Downloading %.0f%%" = "下載檔案（%.0f%%）";
+
+"Download File With Status Downloaded" = "下載檔案（已下載）";
+
+"Download File With Status Not Download Yet" = "下載檔案（尚未下載）";
+
+"Download File With Status Download Failed" = "下載檔案（下載失敗）";
+
+"Download File With Status Preparing" = "下載檔案（準備中）";
+
+"Download File With Status Canceling" = "下載檔案（取消中）";
+
+"Wait for data loading" = "正在傳輸資料，請稍待";
+
+"Detail for data loading" = "\n網路速度慢或者資料量大時，需要多一點時間傳送與接收資料。您也可以點選畫面下方頁籤「%@」以解除畫面鎖定。";
+
+"Detail for data loading2" = "\n網路速度慢或者資料量大時，需要多一點時間傳送與接收資料。";
+
+"Select to view file detail" = "點選以查看檔案詳細資訊";
+
+"Select to view upload detail" = "點選以查看檔案詳細資訊";
+
+"You disable using photo" = "您已禁止取用照片。";
+
+"Go to enable using photo" = "請至「設定」>「隱私」>「照片」，設定允許此應用程式取用照片";
+
+"Back to menu" = "回主選單";
+
+"Back" = "回上層";
+
+"Select one to upload" = "點選要上傳的檔案";
+
+"Try Upload Again" = "嘗試再上傳";
+
+"File exists. Choose another one" = "檔案已經存在，請修改檔案名稱後再上傳";
+
+"File %@ not exists" = "來源檔案「%@」不存在。";
+
+"File not found. Try again later." = "檔案不存在。請稍候再試。";
+
+"File %@ not exists and refresh" = "檔案「%@」不存在。請返回上一頁重載後重新選擇。";
+
+"File %@ not exists or not finished downloading" = "檔案「%@」不存在或尚未下載完成。";
+
+"Directory should not be empty" = "資料夾路徑不可為空值";
+
+"Filename should not be empty" = "檔案名稱不可為空值";
+
+"Filename is empty or contains illegal character" = "檔名「%@」為空值或者包含不合法字元";
+
+"File path should not be empty" = "檔案路徑不可為空值";
+
+"Movie %@ is uploading. Upload %@ later" = "影片「%1$@」正在上傳。等此影片上傳完畢才能上傳檔案「%2$@」";
+
+"Can't upload file now. Try later" = "目前無法上傳檔案，請稍後再試試";
+
+"Error on finding file information." = "無法取得檔案資訊。";
+
+"Error on finding all root directories." = "無法取得資料夾。";
+
+"Network Inaccessible Title" = "連線失敗";
+
+"Network Inaccessible" = "網路不通，或電腦「%@」未啟動 Filelug。請檢查網路連線並確認電腦「%@」已啟動 Filelug 後再試試。";
+
+"Network Inaccessible2" = "網路不通，或連線電腦未啟動 Filelug。請檢查網路連線並確認待連線電腦已啟動 Filelug 後再試試。";
+
+"Error on finding available transmission capacity." = "無法取得可用傳輸容量。";
+
+"Error on finding products." = "無法取得產品資訊。";
+
+"Error on finding purchase data" = "無法取得儲值記錄。";
+
+"Error on finding all download histories." = "無法取得下載記錄。";
+
+"Error on finding all upload histories." = "無法取得上傳記錄。";
+
+"Error Status:%ld%@" = "錯誤碼：%ld\n%@";
+
+"Incorrect response data" = "回傳值錯誤";
+
+"Error on finding uploading status with status code" = "取得上傳資料時發生錯誤。狀態碼：%ld";
+
+"Unsupported file to upload with filename" = "不支援上傳此檔案：%@";
+
+"File %@ has been changed. Need delete and upload again." = "檔案「%@」已經更動過。請刪除這一筆上傳資料後再重新上傳一次。";
+
+"Length of file smaller than the index to start copy (%lu < %lu)" = "檔案大小小於開始讀檔的位置（%lu < %lu）。";
+
+"Unknown error" = "錯誤原因不明。";
+
+"Reconnect needed" = "連線不存在！\n請回首頁點選「連線」以再次建立新連線。";
+
+"Datetime prop" = "於";
+
+"Search: %@" = "搜尋：%@";
+
+"(1 File)" = "（1 個檔案）";
+
+"(N Files)" = "（%ld 個檔案）";
+
+"%ld file downloaded successfully, total size: %@" = "%ld 個檔案成功下載，檔案大小：%@";
+
+"%ld files downloaded successfully, total size: %@" = "%ld 個檔案成功下載，檔案大小合計：%@";
+
+"Total size of successful downloads" = "成功下載檔案大小合計：";
+
+"%ld file uploaded successfully, total size: %@" = "%ld 個檔案成功上傳，檔案大小：%@";
+
+"%ld files uploaded successfully, total size: %@" = "%ld 個檔案成功下載，檔案大小合計：%@";
+
+"Total size of successful uploads" = "成功上傳檔案大小合計：";
+
+"Can't find available transmission capacity" = "無法取得可用傳輸容量！";
+
+"Video size:" = "影片大小：";
+
+"Photo size:" = "相片大小：";
+
+"Duration:" = "影片長度：";
+
+"Path Copied" = "路徑已複製";
+
+"Asset not found" = "找不到原始檔";
+
+"upload" = "上傳";
+
+"re-upload" = "重新上傳";
+
+"stop uploading" = "停止上傳";
+
+"Start at:" = "開始於：";
+
+"Incorrect Password" = "帳號或密碼錯誤";
+
+"Incorrect Password2" = "密碼錯誤";
+
+"Incorrect current password" = "目前密碼錯誤";
+
+"Choose country/region" = "選擇國家或地區";
+
+"Choose country/region first" = "請先選擇國家或地區";
+
+"e.g. %@" = "範例：%1$@";
+
+"Failed verify security code" = "驗證失敗。確認輸入的驗證碼是正確的，然後再重試一次。";
+
+"User already registered successfully." = "之前已經驗證成功。請返回至「設定」主頁，選擇「連線電腦」連接至您的電腦。。";
+
+"Error on verifying security code. %@" = "驗證程序發生錯誤。%@";
+
+"Can not connect to server and try later" = "無法連接伺服器。請稍後再試。";
+
+"No registration data and need register" = "找不到註冊資料。請回上一步重新註冊。";
+
+"No computer ever connected" = "請先在您的桌機或筆電安裝與設定 Filelug。";
+
+"No computer to delete" = "沒有任何電腦可供刪除。";
+
+"Choose Computer Name" = "選擇您要連線的電腦";
+
+"Choose the Computer To Delete"= "選擇要刪除的電腦";
+
+"Error on fetching computer information. Try again later." = "取得電腦資料時發生錯誤。請稍後再試。";
+
+"Failed to connect to computer. %@ Status:%d" = "連線電腦失敗。\n%1$@\n狀態碼：%2$d";
+
+"Error on moving file to file sharing.%@" = "搬移檔案到共享資料夾時發生錯誤。\n%@";
+
+"Error on copying file with error %@" = "複製檔案時發生錯誤。請稍候再試。\n%@";
+
+"Error on creating directory with error %@" = "建立資料夾時發生錯誤。請稍候再試。\n%@";
+
+"Successfully copy file %1$@ to file sharing." = "現在可以使用您電腦的 iTunes 檔案共享功能取得檔案「%1$@」。";
+
+"Moved to file sharing" = "已搬移到共享資料夾";
+
+"File %1$@ is preparing." = "正在儲存檔案「%1$@」。請稍後再試。";
+
+"About File Sharing URL Suffix" = "?viewlocale=zh_TW&locale=zh_TW";
+
+"Share this file with your nearby computer" = "點選後即可使用您電腦的 iTunes 檔案共享功能複製此檔案。";
+
+"Downloaded Files" = "已下載檔案";
+
+"Error on finding directories and files.%1$@" = "取得資料夾與檔案資訊時發生錯誤。\n%1$@";
+
+"Upload File" = "上傳檔案";
+
+"Upload List" = "上傳清單";
+
+"To Directory" = "到資料夾";
+
+"Save To File Name" = "儲存為檔案名稱";
+
+"Error on download file." = "下載檔案時發生錯誤。";
+
+"Error on upload file '%@'. %@" = "上傳檔案「%@」時發生錯誤。\n%@";
+
+"Error on upload file." = "上傳檔案時發生錯誤。";
+
+"File name exists" = "檔案已存在";
+
+"File name %@ exists and still copy to file sharing" = "「%@」已存在於共享資料夾。仍然要複製？";
+
+"Copy again" = "再複製一次";
+
+"Confirm to buy:%@" = "確定要購買\n%@ ？";
+
+"Restricted from accessing the App Store." = "您無法存取應用程式商店。";
+
+"Product is off the shelf" = "此產品已經下架。請回上一頁選購其他產品。";
+
+"Connect and reopen application" = "你有未完成的購買。請重新連線到您的電腦，然後再次開啟這個應用程式。";
+
+"How To 1 Image" = "Tutorial_1_zh_Hant";
+
+"How To 2 Image" = "Tutorial_2_zh_Hant";
+
+"How To 3 Image" = "Tutorial_3_zh_Hant";
+
+"How To 4 Image" = "Tutorial_4_zh_Hant";
+
+"How To 5 Image" = "Tutorial_5_zh_Hant";
+
+"How To 1 Text" = "使用您的手機號碼登入。";
+
+"How To 2 Text" = "在您的桌機或筆電瀏覽網站「filelug.com/p.html」，下載並安裝應用程式。";
+
+"How To 3 Text" = "啟動您剛才安裝的應用程式，等待顯示二維條碼。";
+
+"How To 4 Text" = "從手機或平板掃描二維條碼即可連接到您的桌機或筆電。";
+
+"How To 5 Text" = "開始上傳與下載檔案。";
+
+"Country or region" = "國家或地區";
+
+"Phone number" = "手機號碼";
+
+"Nickname" = "暱稱";
+
+"Computer Name" = "電腦名稱";
+
+"Add New Account" = "加入新帳號";
+
+"Register new account" = "註冊新帳號";
+
+"Delete Account" = "刪除帳號";
+
+"Change Password" = "變更密碼";
+
+"Purchase failure with transaction id: %@. Try again." = "購買傳輸容量失敗。\n交易序號：%@。\n請重新購買。";
+
+"Purchase restored" = "之前購買的傳輸容量已經回存";
+
+"Change" = "變更";
+
+"Failed to change nickname" = "變更暱稱失敗。\n%@";
+
+"Failed to change nickname2" = "變更暱稱失敗。";
+
+"Failed to change upload directory" = "變更上傳資料夾失敗。\n%@";
+
+"Failed to change upload directory2" = "變更上傳資料夾失敗。";
+
+"Failed to change upload subdirectory value" = "變更子資料夾失敗。\n%@";
+
+"Failed to change upload subdirectory value2" = "變更子資料夾失敗。";
+
+"Failed to change upload description value" = "變更上傳備忘說明失敗。\n%@";
+
+"Failed to change upload description value2" = "變更上傳備忘說明失敗。";
+
+"Failed to change upload notification value" = "變更上傳通知類型失敗。\n%@";
+
+"Failed to change upload notification value2" = "變更上傳通知類型失敗。";
+
+"Failed to change download notification value" = "變更下載通知類型失敗。\n%@";
+
+"Failed to change download notification value2" = "變更下載通知類型失敗。";
+
+"Failed to change password" = "變更密碼失敗。\n%@";
+
+"Failed to change password2" = "變更密碼失敗。";
+
+"Current password can not be empty" = "目前密碼不可以為空值";
+
+"New password can not be empty" = "新密碼不可以為空值";
+
+"Confirm new password can not be empty" = "確認新密碼不可以為空值";
+
+"New password does not match the confirm new password" = "新密碼與確認新密碼值不相同。";
+
+"Password not changed" = "新密碼與目前密碼相同";
+
+"Not For Sale Product" = "（已下架的產品）";
+
+"quantity" = "數量";
+
+"File is under processing. Try again later." = "檔案處理中，請稍候再試試。";
+
+"No such file." = "檔案不存在。";
+
+"Error on deleting record." = "刪除失敗。";
+
+"Error on deleting file." = "檔案刪除失敗。";
+
+"Success deleting file." = "檔案已刪除。";
+
+"Also remove the download file?" = "是否一併刪除已下載的檔案？";
+
+"Only remove upload record" = "僅刪除列表中的紀錄，不刪除檔案，也不刪除上傳紀錄。";
+
+"Add New Computer" = "加入新電腦";
+
+"Change connected computer" = "變更連線電腦";
+
+"Finding connected computers" = "正在取得連線電腦資訊，請稍候。";
+
+"Error on finding connected computers" = "取得連線電腦資訊時發生錯誤。";
+
+"Error on deleting computer" = "刪除電腦資訊時發生錯誤。";
+
+"User never connected." = "尚未連線。\n請至「%@」點選「%@」以連線電腦或加入新電腦。";
+
+"User never connected in extension" = "尚未連線。\n請開啟 Filelug，至「%@」點選「%@」以連線電腦。";
+
+"Not login in extension and need login" = "您尚未登入。\n請先開啟 Filelug 完成登入後，再回到這裡完成此功能。";
+
+"User not found in the connection list." = "連線紀錄中沒有此用戶資料。";
+
+"Choose File" = "選擇檔案";
+
+"Photos and Videos" = "照片與影片";
+
+"Download process is still alive. Try again later." = "下載程序仍在進行，請稍候再試試。";
+
+"from" = "從";
+
+"to" = "到";
+
+"transfer.history.search.latest 20" = "最近20筆";
+
+"transfer.history.search.latest.week" = "最近一週";
+
+"transfer.history.search.latest.month" = "最近一個月";
+
+"transfer.history.search.all" = "全部";
+
+"Choose search range" = "選擇搜尋範圍";
+
+"Error on synchronizing bookmarks." = "無法取得書籤資料。";
+
+"Status code:" = "狀態碼：";
+
+"desktop.need.upgrade" = "電腦「%@」的 Filelug 應用程式版本太舊，請先更新至最新版本。";
+
+"desktop.need.upgrade2" = "電腦的 Filelug 應用程式版本太舊，請先更新至最新版本。";
+
+"device.need.update" = "請先更新此 App 再連線到電腦「%@」。";
+
+"device.need.update2" = "請先更新此 App 再連線到電腦。";
+
+"Failed to find the file." = "無法取得檔案資訊。";
+
+"All Upload To Directory" = "全部上傳至此資料夾";
+
+"Save As File Names (Click to Edit)" = "儲存檔名（點選以編輯）";
+
+"(Multiple destinations)" = "（多個指定資料夾）";
+
+"File '%@' downloaded. Find the file information in Menu > Download File" = "檔案「%@」已下載。可至「下載」區取得檔案資訊。";
+
+"File '%@' is downloading and can't be selected now." = "檔案「%@」正在下載，目前無法選取。";
+
+"File '%@' is canceling download and can't be selected now." = "檔案「%@」正在取消下載，目前無法選取。";
+
+"Confirm reset password" = "系統將重設密碼，密碼重設後需要使用新密碼才能連線電腦。\n確定要重設密碼？";
+
+"Reset password" = "重設密碼";
+
+"Reset" = "重設";
+
+"Donot bother" = "朕知道了";
+
+"Error on resetting password. %@" = "Error on resetting password. %@";
+
+"Register failed. Please try again later. %@" = "註冊失敗。請稍候再試。\n%@";
+
+"Successfully reset password" = "密碼重設成功。請至下列電腦的應用程式中更新使用者密碼才能再度連線：\n\n%@";
+
+"Successfully reset password2" = "密碼重設成功。";
+
+"Successfully change password" = "密碼變更成功。請至下列電腦的應用程式中更新使用者密碼才能再度連線：\n\n%@";
+
+"Successfully change password2" = "密碼變更成功。";
+
+"(Not Set)" = "（尚未設定）";
+
+"(Not Set2)" = "（未設定）";
+
+"%@ is not a valid email address." = "「%@」不是有效的電子郵件地址。";
+
+"Email address can not be empty" = "電子郵件地址不能是空值";
+
+"Enter Security Code" = "輸入驗證碼";
+
+"Enter email security code" = "驗證碼已經寄送至 %@。請鍵入驗證碼後點選「%@」即可完成變更。";
+
+"Change email description" = "填寫新的電子郵件地址，點擊「寄送驗證碼給我」。我們將寄送驗證碼至此電子郵件地址。";
+
+"Email Address" = "電子郵件地址";
+
+"Enter email address here" = "在此輸入電子郵件地址";
+
+"Current Email Address" = "目前電子郵件地址";
+
+"New Email Address" = "新電子郵件地址";
+
+"Enter new email address here" = "在此輸入新電子郵件地址";
+
+"Send me security code" = "寄送驗證碼給我";
+
+"Send me security code again" = "再次寄送驗證碼給我";
+
+"Security code can not be empty" = "驗證碼不能是空值";
+
+"Successfully change email to %@" = "成功變更電子郵件地址為「%@」";
+
+"Failed to change email. Status:%d. %@" = "變更電子郵件地址失敗。狀態碼：%d。\n%@";
+
+"Failed to change email." = "變更電子郵件地址失敗。";
+
+"Please fill in email address title" = "請填寫電子郵件地址";
+
+"Please fill in email address message" = "當您不慎遺失手機或平板時，可利用他人手機或平板中的Filelug，在「%@」>「%@」中重設您的帳號密碼。我們將寄送驗證碼至您設定的電子郵件。建議您現在就設定電子郵件。";
+
+"Set it later" = "稍候提醒我";
+
+"Don't remind me again" = "不要再提醒我";
+
+"Set it now" = "立即設定";
+
+"The email is verified." = "此電子郵件已經驗證過了。";
+
+"The email is verified and applied." = "此電子郵件已經是您的有效電子郵件，無需再驗證。";
+
+"Menu" = "主選單";
+
+"Computer %@ not exists. Do you want to find other computers to connect?" = "電腦「%@」不存在。您想要連線其他電腦嗎？";
+
+"Computer not exits. Go to find other computers" = "電腦不存在。請點選「%@」>「%@」以連線其他電腦或加入新電腦。";
+
+"Find Computers" = "找其他電腦";
+
+"Connecting to the computer" = "正在連線電腦";
+
+"Connecting to the computer %@" = "正在連線電腦「%@」";
+
+"Error on connecting to computer %@" = "連線電腦「%@」時發生錯誤。";
+
+"Change phone number" = "變更手機號碼";
+
+"Change phone number description" = "選擇新國家或地區與新手機號碼後，點擊「寄送驗證碼給我」。我們將發送簡訊給您，內附驗證碼。收到後請輸入驗證碼，然後點選「變更」以變更手機號碼。";
+
+"Current Phone Number" = "目前手機號碼";
+
+"New Country/Region" = "新國家或地區";
+
+"New Phone Number" = "新手機號碼";
+
+"Enter phone number here" = "在此輸入手機號碼";
+
+"Enter new phone number here" = "在此輸入新手機號碼";
+
+"should.update.phone.number" = "手機號碼「%@」已經有人使用，請至「%@」變更手機號碼。";
+
+"should.update.phone.number2" = "手機號碼已經有人使用，請至應用程式「%@」>「%@」變更手機號碼。";
+
+"Never connected successfully" = "沒有任何連線電腦紀錄，請先執行連線電腦。";
+
+"Select current phone number" = "選擇目前的手機號碼";
+
+"Select current phone number first" = "請先選擇目前的手機號碼。";
+
+"Enter password" = "鍵入使用者密碼";
+
+"Enter email" = "輸入使用者電子郵件地址";
+
+"I forget password" = "我忘記密碼了";
+
+"New phone number can not be empty" = "新手機號碼不可為空值。";
+
+"Get security code first" = "請先點擊「%@」以取得驗證碼。";
+
+"Get security code again" = "請再次點擊「%@」取得新驗證碼。";
+
+"Successfully change phone number to %@" = "手機號碼成功變更為「%@」";
+
+"Successfully change phone number to %@ and auto relogin after %@ clicked" = "手機號碼成功變更為「%@」。當您點選「%@」，我們將自動為您重新登入。";
+
+"Failed to change phone number. Status:%d. %@" = "變更手機號碼失敗。\n狀態碼：%d.\n%@";
+
+"User not specified" = "未指定使用者";
+
+"Choose User" = "選擇使用者";
+
+"Confirm Deleting User" = "刪除帳號「%@」（%@）後，已下載的檔案與上傳下載紀錄都會一併刪除。其他裝置也無法使用此帳號。\n確定刪除此帳號嗎？";
+
+"Delete this user" = "刪除此帳號";
+
+"Failed to delete user. Status:%d. %@" = "刪除帳號失敗。\n狀態碼：%d\n%@";
+
+"Reset computer application" = "\n刪除此帳號後，下列電腦的 Filelug 應用程式將會恢復初始設定，您需要掃描二維條碼以重新連結此電腦：\n\n%@";
+
+"Confirm Delete" = "確認刪除";
+
+"Successfully deleted user and create new account" = "帳號已刪除成功，請重新建立新帳號。";
+
+"Successfully deleted user and login other account" = "帳號已刪除成功，請選擇其他帳號登入或加入新帳號。";
+
+"exceed.download.size.limit" = "檔案大小（%@）超過限制。";
+
+"exceed.download.size.limit2" = "檔案「%@」大小超過限制。";
+
+"exceed.upload.size.limit" = "檔案大小（%@）超過限制。";
+
+"exceed.upload.size.limit2" = "檔案「%@」大小超過限制。";
+
+"exceed.upload.size.limit3" = "下列檔案大小超過限制，無法上傳：%@";
+
+"File Too Large" = "檔案太大";
+
+"Registered Successfully" = "註冊成功";
+
+"Install and setup Filelug on desktop or laptop" = "現在請至桌機或筆電上安裝 Filelug 後再點選「%@」>「%@」以加入新電腦。";
+
+"Install and setup Filelug on desktop or laptop in extension" = "現在請至桌機或筆電上安裝 Filelug 後開啟本裝置的 Filelug App，至「%@」點選「%@」以連線電腦。";
+
+"Login Successfully" = "登入成功";
+
+"Install and setup Filelug on desktop or laptop2" = "現在請至桌機或筆電上安裝 Filelug 後再點選「%@」以加入新電腦。";
+
+"Upload other selected files" = "上傳其他已選的檔案";
+
+"Upgrade desktop %@ first" = "電腦「%@」的 Filelug 應用程式版本太舊，請先更新至最新版本，才能上傳檔案。";
+
+"Version Too Old" = "版本太舊";
+
+"Upgrade desktop %@ before download file %@" = "請先更新電腦「%@」上的 Filelug 應用程式到最新版，才能下載檔案「%@」。";
+
+"View" = "檢視";
+
+"Accept" = "接受";
+
+"File %@ downloaded successfully" = "檔案「%@」已成功下載。";
+
+"File downloaded successfully" = "檔案已成功下載";
+
+"All files downloaded successfully" = "所有檔案都已成功下載";
+
+"All files downloaded successfully2" = "%ld個檔案（%@ ...）全部成功下載。";
+
+"Failed to download file %@" = "檔案「%@」下載失敗。";
+
+"Failed to download file %@. Try again later" = "檔案「%@」下載失敗。請稍候再試。";
+
+"Failed to download file" = "檔案下載失敗";
+
+"Directory to save" = "上傳到資料夾";
+
+"Included in a subdirectory" = "把檔案置於子資料夾下";
+
+"Description" = "上傳備忘說明";
+
+"Upload Notification" = "上傳結果通知";
+
+"Download Notification" = "下載結果通知";
+
+"Advanced Settings" = "進階設定";
+
+"Files selected to upload" = "上傳下列檔案";
+
+"Files selected to upload (Total)" = "上傳下列檔案。檔案大小共計約：%@";
+
+"Files selected to download" = "下載下列檔案";
+
+"Files selected to download (Total)" = "下載下列檔案。檔案大小共計：%@";
+
+"Select to preview, or slide to remove from selection." = "點擊預覽檔案；或向左滑動可移除。";
+
+"Slide to remove from selection." = "向左滑動可移除檔案";
+
+"(File not exists)" = "（檔案不存在）";
+
+"Save To Computer" = "儲存到電腦";
+
+"Files to save. Click to change filename" = "待儲存檔案。點選可修改檔名";
+
+"Change filename to:" = "檔名變更為：";
+
+"Confirm Change" = "確認變更";
+
+"View Status" = "檢視狀態";
+
+"Subdirectory Name" = "建立子資料夾名稱";
+
+"Show hidden files" = "顯示隱藏檔";
+
+"Do not show hidden files" = "不顯示隱藏檔";
+
+"Feedback from" = "[給檔隨傳小組]%@的建議";
+
+"Are you sure to delete local cached data?" = "確定刪除本機暫存資料？";
+
+"Are you sure to delete computer %@ without downloaded file?" = "電腦「%@」上的 Filelug 應用程式將會恢復初始設定，您需要掃描二維條碼以重新連結此電腦。\n\n確定要刪除？";
+
+"Are you sure to delete computer %@ with downloaded file?" = "已經從電腦「%@」下載至此的檔案副本將會被刪除，且此電腦上安裝的 Filelug 應用程式將會恢復初始設定，您需要掃描二維條碼以重新連結此電腦。\n\n確定要刪除？";
+
+"No subdirectory" = "無（不建立）";
+
+"Current timestamp" = "目前時間";
+
+"Customized name" = "自訂名稱";
+
+"Current timestamp + Customized name" = "目前時間 ＋ 自訂名稱";
+
+"Customized name + Current timestamp" = "自訂名稱 ＋ 目前時間";
+
+"No description" = "無";
+
+"Filename list" = "上傳檔案名稱清單";
+
+"Customized description" = "自訂備忘說明";
+
+"Customized description + Filename list" = "自訂備忘說明 ＋ 上傳檔案名稱清單";
+
+"No notification" = "不通知";
+
+"On each file" = "個別通知";
+
+"On all files" = "整批通知";
+
+"Choose type of subdirectory" = "選擇子資料夾類型";
+
+"Choose type of description" = "選擇上傳說明類型";
+
+"Choose type of upload notification" = "選擇上傳通知類型";
+
+"Choose type of download notification" = "選擇下載通知類型";
+
+"Browse File" = "瀏覽檔案";
+
+"Enter customized name" = "輸入自訂名稱";
+
+"Empty subdirectory name" = "自訂名稱不可為空值。";
+
+"Directory name can't contain the following character(s): %@" = "資料夾名稱不能包含下列字元：\n%@";
+
+"Directory name can't contain only punctuation characters." = "資料夾名稱不能只有標點符號。";
+
+"Filename can't contain the following character(s): %@" = "檔案名稱不能包含下列字元：\n%@";
+
+"Filename can't contain only punctuation characters." = "檔案名稱不能只有標點符號。";
+
+"Filename already exists: %@" = "檔名已存在：%@";
+
+"Empty description" = "上傳說明不可以為空值。";
+
+"Upload Summary" = "上傳摘要";
+
+"Download Summary" = "下載摘要";
+
+"Enter customized description" = "輸入自訂說明";
+
+"New Folder" = "新資料夾";
+
+"Filename List" = "上傳檔案列表";
+
+"Alblum_All Photos" = "全部";
+
+"Upload Information" = "上傳資訊";
+
+"Upload Group Information" = "上傳摘要資訊";
+
+"Upload To Computer" = "上傳到電腦";
+
+"Upload Path" = "上傳路徑";
+
+"Start Upload Timestamp" = "開始上傳時間";
+
+"End Upload Timestamp" = "結束上傳時間";
+
+"Upload Status" = "上傳狀態";
+
+"File Uploaded Size" = "已上傳檔案大小";
+
+"Uncategorized" = "** 未分類 **";
+
+"Failed to rename file to: %@" = "變更檔案名稱失敗：\n%@";
+
+"Browse" = "瀏覽";
+
+"Filelug is a rapid and secure system to transfer files between devices and computers." = "Filelug 是一個操作簡單、跨越資訊裝置、迅速安全的檔案互傳系統。";
+
+"New User? Register an account" = "第一次使用，註冊新帳號";
+
+"Already registered? Login now" = "我已經註冊過，直接登入";
+
+"Getting Started with Filelug" = "使用簡介";
+
+"Allow Notifications" = "允許通知";
+
+"Turn on Notifications" = "若您希望在檔案傳送與接收後收到通知，待會系統詢問您是否願意開啟通知時，請選擇「允許」。";
+
+"Step-by-step descriptions" = "步驟說明";
+
+"Account and Computer" = "帳號與電腦";
+
+"Deletion" = "刪除";
+
+"Delete" = "刪除";
+
+"Current Account" = "目前帳號";
+
+"Current Computer" = "目前電腦";
+
+"Manage Current Account" = "管理目前帳號";
+
+"Manage Current Computer" = "管理目前電腦";
+
+"Setting Upload Group" = "設定上傳資訊";
+
+"Setting Download Group" = "設定下載資訊";
+
+"Profiles" = "基本資料";
+
+"File Browse" = "檔案瀏覽";
+
+"File Upload" = "檔案上傳";
+
+"File Download" = "檔案下載";
+
+"Task" = "工作";
+
+"History" = "歷史紀錄";
+
+"About" = "關於";
+
+"email" = "電郵地址";
+
+"email(not verified)" = "電郵地址（尚未驗證）";
+
+"If Show Hidden Files" = "是否顯示隱藏檔？";
+
+"Upload Directory" = "上傳資料夾";
+
+"Delete Local Cached Data" = "刪除本機暫存資料";
+
+"Delete Computer" = "刪除電腦";
+
+"Downloaded Files History" = "已下載檔案紀錄";
+
+"Uploaded Files History" = "已上傳檔案紀錄";
+
+"Getting Started with Filelug" = "使用簡介";
+
+"Write Your Feedback" = "意見回饋";
+
+"Rate Filelug on App Store" = "為 Filelug 檔隨傳評分";
+
+"Terms of Service" = "使用條款";
+
+"Privacy Policy" = "隱私權政策條款";
+
+"App Version" = "應用程式版本";
+
+"Want to allow access photos later" = "若要允許取用照片，可開啟「設定」App，點選「Filelug」，開啟Filelug取用照片功能即可。";
+
+"Want to allow access photos again" = "若要上傳照片到你的電腦，請先開啟「設定」App，點選「Filelug」，開啟Filelug取用照片功能。";
+
+"Let Filelug Notify?" = "是否允許 Filelug 啟用通知？";
+
+"Filelug notifies when finished transfer of files." = "如果您下載或上傳檔案後，需要 Filelug 主動通知傳送結果，請選擇「%@」。若選擇「%@」，則 Filelug 將不通知檔案傳送結果，但您仍可開啟 Filelug 來查看。";
+
+"Want to allow notification later" = "若待會要允許通知，可開啟「設定」App，點選「Filelug」，並允許通知即可。";
+
+"Can't %@" = "無法%@";
+
+"File %@ not finished %@, try later" = "檔案「%@」尚未完成%@，請等待檔案%@完成，或者取消%@後再試試。";
+// "File %@ not finished %@, try later" = "檔案「%@」尚未完成%@，請稍候或者刪除此檔案%@後再試。";
+
+"downloading" = "下載";
+
+"download2" = "下載";
+
+"uploading" = "上傳";
+
+"upload2" = "上傳";
+
+"User canceled." = "用戶已取消。";
+
+"Select a folder or file" = "選擇一個資料夾或檔案";
+
+"Security Code" = "驗證碼";
+
+"Security code sent description" = "已經發送簡訊至此手機，內含驗證碼。請在以下區域中輸入此驗證碼，然後點擊「驗證」。";
+
+"Not received security code description" = "如果您等了一會兒還沒收到我們送出的簡訊，請點擊「再次發送驗證碼」，我們會再發送一次。";
+
+"Enter security code here." = "在此輸入驗證碼";
+
+"Current Nickname" = "目前暱稱";
+
+"Change To" = "變更為";
+
+"New Nickname" = "新暱稱";
+
+"Enter new nickname here" = "在此輸入新暱稱";
+
+"Enter nickname here" = "在此輸入暱稱";
+
+"Current Password" = "目前密碼";
+
+"New Password" = "新密碼";
+
+"Confirm New Password" = "確認新密碼";
+
+"Enter current password here" = "在此輸入目前的密碼";
+
+"Enter new password here" = "在此輸入新密碼";
+
+"Enter new password here again" = "再次輸入新密碼";
+
+"Reset Password Description" = "填入國家或地區資料與手機號碼後，再點選「寄送驗證碼給我」，我們將發送驗證碼至您的電子郵件地址。收到後請輸入驗證碼與新密碼，然後點選「重設」以重設您的密碼。";
+
+"Copy Path" = "複製路徑";
+
+"File Information" = "檔案資訊";
+
+"Options" = "選項 ...";
+
+"Reload it as a directory" = "重新顯示為資料夾";
+
+"Remove Uploaded Files" = "移除已上傳檔案資訊";
+
+"Remove File Upload" = "移除檔案資訊";
+
+"Smart Album Recently Deleted" = "最近刪除";
+
+"Confirm your email and nickname to complete login process" = "請確認您的電郵地址與暱稱後，點選「傳送」以完成登入。";
+
+"Enter your email and nickname to complete your registration" = "請輸入您的電郵地址與暱稱後，點選「傳送」以完成註冊。";
+
+"User Profiles" = "使用者基本資料";
+
+"Failed to change user profiles." = "使用者基本資料更新失敗";
+
+"Send" = "傳送";
+
+"Wrong Login Account" = "帳號不一致";
+
+"Describe wrong login account" = "您想使用的帳號是「%@」，但卻使用另一個帳號「%@」登入。請使用正確帳號登入。";
+
+"Failed to confirm the status of download." = "無法確認下載狀態。";
+
+"Failed to confirm the status of upload." = "無法確認上傳狀態。";
+
+"Description of connecting to computer introduction" = "新增電腦只需要幾個步驟，讓我們帶著你完成。";
+
+"Description of connecting to computer installation" = "在您的桌機或筆電瀏覽網頁「filelug.com/p.html」，下載並安裝應用程式。";
+
+"Description of connecting to computer startup" = "啟動您剛才安裝的應用程式，等待顯示二維條碼，如下方所示。";
+
+"Description of connecting to computer with QRCode scanning" = "將下方掃描區對準電腦上的二維條碼，然後稍待一會兒。";
+
+"Refresh QR code"="更新二維條碼";
+
+"Expired QR code and need refresh" = "此二維條碼已經過期，請點選待連線電腦二維條碼畫面下方按鍵「重新產生二維條碼」以產生新的二維條碼，然後再掃描一次。";
+
+"Connected to the computer %@ successfully" = "成功連線電腦「%@」。";
+
+"Title Installation" = "安裝";
+
+"Title Startup" = "啟動";
+
+"Title Scan" = "掃描";
+
+"Previous Step" = "上一步";
+
+"Next Step" = "下一步";
+
+"New Computer" = "新電腦";
+
+"Authenticate Before Deleting Account" = "為安全起見，刪除帳號前，請點選「%@」，依流程完成身份確認。";
+
+"Incorrect value of verification" = "驗證碼錯誤";
+
+"Incorrect security code and try again" = "驗證碼錯誤，請再試一次。";
+
+"Session not found try later" = "連線不存在，請稍後再試。";
+
+"Enter new name of the computer with length limit" = "輸入電腦新名稱。\n長度須介於 %d 到 %d 個字元。";
+
+"Incorrect length of the name" = "電腦名稱須介於 %d 到 %d 個字元。";
+
+"Failed to change computer name. Status:%d. %@" = "變更電腦名稱失敗。\n狀態碼：%d\n%@";
+
+"Successfully change computer name to %@" = "成功變更電腦名稱為「%@」";
+
+"From Computer %@" = "，從 %@";
+
+"File is uploading and cannot be deleted." = "檔案正在上傳，無法刪除。若您一定要現在刪除這個檔案，請先停止上傳此檔案。";
+
+"File failed to upload and cannot upload it again if deleted." = "您曾經上傳過此檔案，但是並未上傳成功。若您刪除此檔案，將無法再上傳。您確定要刪除？";
+
+"File failed to upload to computer %@ and cannot upload it again if deleted." = "您曾經上傳過此檔案到電腦「%@」，但是並未上傳成功。若您刪除此檔案，將無法再上傳。您確定要刪除？";
+
+"%@ failed to upload file to computer %@ and cannot upload it again if deleted." = "「%@」曾經上傳過此檔案到電腦「%@」，但是並未上傳成功。若您刪除此檔案，將無法再上傳。您確定要刪除？";
+
+"File ever uploaded and cannot preview it if deleted." = "您曾經上傳過此檔案。若刪除它，將無法在上傳區預覽。您確定要刪除？";
+
+"File ever uploaded to computer %@ and cannot preview it if deleted." = "您曾經上傳過此檔案到電腦「%@」。若刪除它，將無法在上傳區預覽。您確定要刪除？";
+
+"%@ uploaded the file to computer %@ and cannot preview it if deleted." = "「%@」曾經上傳過此檔案到電腦「%@」。若刪除它，將無法在上傳區預覽。您確定要刪除？";
+
+"Demo computer upload rule." = "任何人都可以下載此示範機上的檔案，請勿上傳版權有爭議或者內容包含色情暴力等不當內容的檔案。";

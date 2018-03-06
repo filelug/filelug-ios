@@ -1,0 +1,1354 @@
+"OK" = "OK";
+
+"Re-login" = "Re-Connect";
+
+"NO" = "NO";
+
+"YES" = "YES";
+
+"Cancel" = "Cancel";
+
+"Close Window" = "Close Window";
+
+"Try Again" = "Try again";
+
+"Try Later" = "Try later";
+
+"Try Delete Again" = "Try to delete again";
+
+"Try Download Again" = "Try to download again";
+
+"Try Open Again" = "Try to open again";
+
+"Done" = "Done";
+
+"Next" = "Next";
+
+"Previous" = "Previous";
+
+"Choose" = "Choose";
+
+"file" = "File";
+
+"path" = "path";
+
+"Path" = "Path";
+
+"Name" = "Name";
+
+"Readable" = "Readable";
+
+"Writable" = "Writable";
+
+"Executable" = "Executable";
+
+"Hidden" = "Hidden";
+
+"Permission YES" = "YES";
+
+"Permission NO" = "NO";
+
+"Hidden YES" = "YES";
+
+"Hidden NO" = "NO";
+
+"Edit" = "Edit";
+
+"directory" = "Directory";
+
+"file" = "File";
+
+"bundle_directory_file" = "Directory: Can be opened by other Apps";
+
+"Bookmark" = "Bookmark";
+
+"BookmarkManager" = "Bookmark Manager";
+
+"New Bookmark" = "New Bookmark";
+
+"Edit Bookmark" = "Edit Bookmark";
+
+"Create" = "Create";
+
+"My Bookmark" = "My Bookmark";
+
+"Delete Bookmark" = "Delete Bookmark";
+
+"Delete This Bookmark" = "Delete This Bookmark";
+
+"Release to refresh..." = "Release to refresh";
+
+"Pull to refresh" = "Pull to refresh";
+
+"Refresh" = "Refresh";
+
+"Loading..." = "Loading";
+
+"Initializing Filelug" = "Starting Filelug. Please wait.";
+
+"Login failed. %@ Status:%d" = "Sign-in failed.\n%1$@\nStatus:%2$d";
+
+"Login failed. %@" = "Sign-in failed.\n%@";
+
+"Login failed. Try later." = "Sign-in failed. Please try again later.";
+
+"Login failed." = "Sign-in failed.";
+
+"Connection Busy" = "Connection failed due to slow network speed or network connection problems to computer \"%1$@\".";
+
+"Connection Busy2" = "Connection failed due to slow network speed or network connection problems to the connecting computer.";
+
+"Connection not exists" = "The network connection does not exist.";
+
+"Error on parsing data: %@\n%@" = "Error parsing data: %1$@\n%2$@";
+
+"Error on listing files and sub-directories.\n%@" = "Error listing files and sub-directories.\n%1$@";
+
+"Error on listing files and sub-directories. Status:%d.\n%@" = "Error listing files and sub-directories. Status:%1$d.\n%2$@";
+
+"Permission Denied" = "Permission denied.";
+
+"Failed to remove local file:%@.\n%@" = "Failed to remove the local file:%1$@.\n%2$@";
+
+"Failed to move file from:%@ to:%@.\n%@" = "Failed to move the file from:%1$@ to:%2$@.\n%3$@";
+
+"Failed to update attributes of file:%@.\n%@" = "Failed to update the attributes for file:%1$@.\n%2$@";
+
+"Failed to remove existing file:%@.\n%@" = "Failed to remove the existing file:%1$@.\n%2$@";
+
+"Failed to copy file from:%@ to:%@.\n%@" = "Failed to copy file from:%1$@ to:%2$@.\n%3$@";
+
+"Incorrect bookmark information.\n%@" = "Incorrect bookmark data format.\n%1$@";
+
+"Can't find bookmarks.\n%@" = "Bookmarks not found.\n%1$@";
+
+"Can't create bookmark." = "Failed to create the bookmark.";
+
+"Can't update bookmark." = "Failed to update the bookmark.";
+
+"Can't delete bookmark." = "Failed to delete the bookmark.";
+
+"Error on finding all bookmark changes.\nStatus:%d\n%@" = "Error retrieving all bookmark changes.\nStatus:%1$d\n%2$@";
+
+"Bookmark ID: %@" = "Bookmark ID: %1$@";
+
+"Incorrect directory information.\n%@" = "Incorrect directory data format.\n%1$@";
+
+"Can't find directory roots.\n%@" = "The root directory cannot be found.\n%1$@";
+
+"Directory not found:\n%@" = "Directory not found:\n%1$@";
+
+"Server Address" = "Server Address";
+
+"Login Account" = "Sign In";
+
+"Connect to the demonstration computer" = "Connect to the demonstration computer";
+
+"Domain" = "Domain";
+
+"Domain Placehoder" = "my.domain.com";
+
+"Port" = "Port";
+
+"Port Placehoder" = "8080";
+
+"Email" = "Email";
+
+"Email Placeholder" = "name@domain.com";
+
+"Password" = "Password";
+
+"Confirm Password" = "Confirm Password";
+
+"showHidden" = "Show Hidden File";
+
+"Settings" = "Settings";
+
+"Login" = "Sign in";
+
+"Clear Caches" = "Clear Cache";
+
+"Others" = "Others";
+
+"Port can not be empty" = "The port cannot be empty.";
+
+"Email can not be empty" = "The email cannot be empty.";
+
+"Invalid country id" = "The country code cannot be empty.";
+
+"Invalid phone number" = "The phone number cannot be empty.";
+
+"Invalid nickname" = "The nickname cannot be empty.";
+
+"Same nickname" = "The new nickname is the same as the current nickname.";
+
+"Password can not be empty" = "The password cannot be empty.";
+
+"Computer can not be empty" = "The connecting computer has not been set.";
+
+"Invalid security code" = "The security code cannot be empty.";
+
+"Specify a file to open" = "Please specify a file to open.";
+
+"Open File" = "Open File";
+
+"Open File2" = "Open File (%.0f%%)";
+
+"Open File3" = "Open File (%@)";
+
+"Delete File" = "Delete File";
+
+"Create Bookmark" = "Create bookmarks";
+
+"Bookmark Name" = "Bookmark Name";
+
+"File Tasks" = "Tasks";
+
+"File Permissions" = "Permissions";
+
+"File Size" = "Size";
+
+"File Size: %@" = "File Size: %@";
+
+"File Size To Open: %@" = "File Size To Open:\n%@";
+
+"File Size To Share: %@" = "File Size To Share:\n%@";
+
+"Mime Type" = "Mime Type";
+
+"Last Modified Date" = "Last Modified Date";
+
+"Parent Directory" = "Parent Directory";
+
+"Incorrect file information.\n%@" = "Incorrect file data format.\n%1$@";
+
+"No File Found at:%@.\n%@" = "No file found at:%1$@.\n%2$@";
+
+"No File Selected" = "No file selected.";
+
+"Error Get File Information:%@.\nStatus:%d\n%@" = "Error occurred while retrieving file information:%1$@.\nStatus:%2$d\n%3$@";
+
+"Confirm Deleting File '%@'" = "Are you sure you want to delete file \"%1$@\"?";
+
+"Failed Save Downloaded Data.\n%@" = "Failed to save the downloaded data.\n%1$@";
+
+"Connection Failed.\n%@" = "Connection failed.\n%1$@";
+
+"Preview File" = "Preview file";
+
+"Can't preview this file." = "This file cannot be previewed.\nThe file may have been deleted.";
+
+"Failed to remove file:%@.\n%@" = "Failed to remove the file:%1$@.\n%2$@";
+
+"Failed to create directory:%@.\n%@" = "Failed to create the directory:%1$@.\n%2$@";
+
+"Failed to update last modified date for file:%@.\n%@" = "Failed to update last modified date for the file:%1$@.\n%2$@";
+
+"Can't connect to server.\ndomain:%@\nport:%@" = "Failed to connect to the server.\ndomain:%1$@\nport:%2S@";
+
+"Can't browse this directory.\n%@" = "Failed to browse the directory.\n%1$@";
+
+"Can't browse this directory.\nStatus:%d\n%@" = "Failed to browse the directory.\nStatus:%1$d\n%2$@";
+
+"Can't delete bookmark because there's no bookmark id" = "Failed to delete the bookmark due to no bookmark ID";
+
+"Bookmark created:\nName:%@\nPath:%@" = "Bookmark created.\nName:%1$@\nPath:%2$@";
+
+"File '%@' delete successfully" = "File \"%1$@\" has been deleted successfully.";
+
+"Failed to delete file '%@'\n%@" = "Failed to delete the file \"%1$@\"\n%2$@";
+
+"Failed to delete file '%@'.\nStatus:%d\n%@" = "Failed to delete the file \"%1$@\".\nStatus:%2$d\n%3$@";
+
+"Invalid session and need re-login" = "Connection expired. Please login again.";
+
+"Session not found and need login" = "You have not logged in yet. Please login first.";
+
+"Session not found. Go login" = "You have not logged in yet. Please select \"%@\" > \"%@\" to login first";
+
+"Your session has timed out. Please sign in again." = "Session has timed out. Please sign in again.";
+
+"Login Now" = "Sign in now";
+
+"Login Again" = "Sign in again";
+
+"Connect Now" = "Connecting now!";
+
+"Choose Account to Login" = "Choose an account to sign in.";
+
+"Choose Account to Delete" = "Choose an account to delete.";
+
+"No Saved Account Information" = "No saved account information.";
+
+"Empty Bookmark Name" = "Bookmark name cannot be empty.";
+
+"Empty Bookmark Path" = "Bookmark path cannot be empty.";
+
+"RootDirectoryViewController Title From BookmarkDetail" = "Choose Directory";
+
+"Default Root Directory Name" = "Home Directory";
+
+"Error on finding directory children." = "Failed to retrieve the sub-directories and files.";
+
+"Select to browse" = "Select to browse.";
+
+"Select to browse. Pull to refresh" = "Select to browse. Pull to refresh.";
+
+"Recently accessed folders" = "Recently accessed folders";
+
+"Select one directory or file" = "Select a directory or file.";
+
+"Invalid email" = "Incorrect email address format.";
+
+"Password does not match the confirm password" = "Password does not match the confirmed password.";
+
+"CONNECT" = "Connect";
+
+"Prompt On Success Registration" = "Confirmation email has been sent to \"%@\".\nBefore clicking the \"%@\" button, please complete the steps listed in the email.";
+
+"Successfully sent security code to %@" = "The security code has been sent to: %@";
+
+"Failed to send security code. Status:%d. %@" = "Failed to send the security code.\nStatus:%d\n%@";
+
+"Failed to send security code." = "Failed to send the security code.";
+
+"Failed to send security code. Please try again later. %@" = "Failed to send the security code, please try again later.\n%@";
+
+"File Name" = "File Name";
+
+"Directory" = "Directory";
+
+"Information" = "Information";
+
+"Permission" = "Permission";
+
+"File Parent Path" = "File's Parent Path";
+
+"Copy" = "Copy";
+
+"Rename Title" = "Rename";
+
+"Rename Again" = "Rename Again";
+
+"User %@ not registered" = "User \"%@\" not registered";
+
+"User not registered" = "The user has not been registered yet.";
+
+"Register" = "Register";
+
+"Verify" = "Verify";
+
+"Identification" = "Identification";
+
+"Register Now" = "Register Now";
+
+"Click to download file" = "Click to download file.";
+
+"File downloaded" = "File downloaded!";
+
+"File already exists. if download again?" = "File already exists. Do you want to download the file again?";
+
+"Downloaded" = "Downloaded";
+
+"File uploaded" = "File uploaded.";
+
+"Download Preparing" = "Prepare to download.";
+
+"Upload Preparing" = "Prepare to upload.";
+
+"Confirming" = "Confirming the status...";
+
+"File is downloading" = "Downloading file...";
+
+"Downloading (%.0f%%)" = "Downloading(%.0f%%)...";
+
+"Download status %@" = "Download status: %@";
+
+"File is downloading. Keep waiting?" = "Download is currently in progress. Would you like to resume and try again?";
+
+"File is uploading" = "File is uploading...";
+
+"File is uploading2" = "File is uploading.\nView uploading process in %@";
+
+"File is uploading in extension" = "File is uploading.\nYou can open Filelug and view the uploading process in %@";
+
+"Uploaded failed. Try again later" = "File upload failed. Try again later.";
+
+"Failed to upload file. Please delete this upload and upload again." = "Failed to upload the file. Please delete this upload progress and try again.";
+
+"Some files failed to upload" = "%d file(s) failed to upload.\nView others\" uploading process in %@";
+
+"Some files failed to upload in extension" = "%d file(s) failed to upload.\nYou can open Filelug and view others\" uploading process in %@";
+
+"Download suspended" = "Download suspended.";
+
+"Downloaded failed" = "Download failed.";
+
+"Uploaded failed" = "Upload failed.";
+
+"Download canceling" = "Download canceling...";
+
+"Canceling" = "Canceling...";
+
+"Upload canceling" = "Upload canceling...";
+
+"Open File" = "Open File";
+
+"Download Again" = "Download Again";
+
+"Use Existing File" = "Use Existing File";
+
+"Download File" = "Download File";
+
+"Download" = "Download";
+
+"Download(%lu)" = "Download(%lu)";
+
+"Keep Waiting" = "Waiting";
+
+"Suspend Download" = "Suspend Download";
+
+"Cancel Download" = "Cancel Download";
+
+"Resume Download" = "Resume";
+
+"Download File First" = "File not downloaded yet. Download this file?";
+
+"Not downloaded yet" = "Not downloaded yet.";
+
+"Click add button to apply" = "Click \"add button\"(+) to apply.";
+
+"Select multiple files to download" = "You can select multiple files for download.";
+
+"Click add button to upload file to the directory" = "Click \"add button\" (+) to upload file to the directory.";
+
+"Click add button to set bookmark path" = "Click \"add button\" (+) to set bookmark path.";
+
+"Select to browse or click add button to apply" = "Select to browse or click \"add button\" (+) to apply.";
+
+"Download File With Status Downloading %.0f%%" = "Download File (%.0f%%)";
+
+"Download File With Status Downloaded" = "Download File (Downloaded)";
+
+"Download File With Status Not Download Yet" = "Download File (Not Download Yet)";
+
+"Download File With Status Download Failed" = "Download File (Download Failed)";
+
+"Download File With Status Preparing" = "Download File (Preparing...)";
+
+"Download File With Status Canceling" = "Download File (Canceling...)";
+
+"Wait for data loading" = "Loading data, please wait.";
+
+"Detail for data loading" = "\nIt may take a longer time to load data when the connection is poor, or the amount of data is large. You can press the tab \"%@\" to unlock the screen.";
+
+"Detail for data loading2" = "\nIt may take a longer time to load data when connection is poor, or the amount of data is large.";
+
+"Select to view file detail" = "Select to view file details.";
+
+"Select to view upload detail" = "Select to view file details.";
+
+"You disable using photo" = "You have been denied permission to access photos.";
+
+"Go to enable using photo" = "Set access to photos in \"Settings\" > \"Privacy\" > \"Photos\"";
+
+"Back to menu" = "Back to menu";
+
+"Back" = "Back";
+
+"Select one to upload" = "Select a file to upload";
+
+"Try Upload Again" = "Try uploading again.";
+
+"File exists. Choose another one" = "File exists. Please modify the filename and upload again.";
+
+"File %@ not exists" = "Source file \"%@\" not exists.";
+
+"File not found. Try again later." = "File does not exist. Please try again later.";
+
+"File %@ not exists and refresh" = "File \"%@\" does not exist. Go back, press \"Refresh\" and choose again.";
+
+"File %@ not exists or not finished downloading" = "File \"%@\" does not exist or has not yet downloaded.";
+
+"Directory should not be empty" = "Folder cannot be empty.";
+
+"Filename should not be empty" = "Filename cannot be empty.";
+
+"Filename is empty or contains illegal character" = "Filename \"%@\" is empty or contains illegal character(s).";  "File path should not be empty" = "File path cannot be empty.";
+
+"File path should not be empty" = "File path should not be empty";
+
+"Movie %@ is uploading. Upload %@ later" = "Movie %1$@ is uploading. Upload %2$@ after the movie upload is complete.";
+
+"Can't upload file now. Try later" = "File cannot be uploaded now. Please try again later.";
+
+"Error on finding file information." = "An error occurred while retrieving file information.";
+
+"Error on finding all root directories." = "An error occurred while retrieving directories.";
+
+"Network Inaccessible Title" = "Connection Failed";
+
+"Network Inaccessible" = "Network Inaccessible or Filelug application on the computer \"%@\" has not started up. Please check the internet connection and make sure the Filelug application has been started on the computer \"%@\", and try again.";
+
+"Network Inaccessible2" = "Network inaccessible or the Filelug application on the computer not started up. Please check the internet connection and make sure the Filelug application has been started on the connecting computer, and try again.";
+
+"Error on finding available transmission capacity." = "An error occurred while retrieving available transmission capacity.";
+
+"Error on finding products." = "An error occurred while retrieving products.";
+
+"Error on finding purchase data" = "An error occurred while retrieving purchase data.";
+
+"Error on finding all download histories." = "An error occurred while retrieving all download histories.";
+
+"Error on finding all upload histories." = "An error occurred while retrieving all upload histories.";
+
+"Error Status:%ld%@" = "Error Status:%ld\n%@";
+
+"Incorrect response data" = "Incorrect response data.";
+
+"Error on finding uploading status with status code" = "An error occurred while retrieving upload status. Status code: %ld";
+
+"Unsupported file to upload with filename" = "Unsupported file to upload: %@";
+
+"File %@ has been changed. Need delete and upload again." = "File \"%@\" has been changed. You need to delete this uploaded data and then upload it again.";
+
+"Length of file smaller than the index to start copy (%lu < %lu)" = "Length of file smaller than the index to start copy (%lu < %lu)";
+
+"Unknown error" = "Unknown error.";
+
+"Reconnect needed" = "No Connection.\nPlease go to the menu and click \"Connect\" to connect again.";
+
+"Datetime prop" = "on";
+
+"Search: %@" = "Search: %@";
+
+"(1 File)" = "(1 File)";
+
+"(N Files)" = "(%ld Files)";
+
+"%ld file downloaded successfully, total size: %@" = "%ld file downloaded successfully, size: %@";
+
+"%ld files downloaded successfully, total size: %@" = "%ld files downloaded successfully, total size: %@";
+
+"Total size of successful downloads" = "Total size of successful downloads: ";
+
+"%ld file uploaded successfully, total size: %@" = "%ld file uploaded successfully, size: %@";
+
+"%ld files uploaded successfully, total size: %@" = "%ld files uploaded successfully, total size: %@";
+
+"Total size of successful uploads" = "Total size of successful uploads: ";
+
+"Can't find available transmission capacity" = "Can't find available transmission capacity!";
+
+"Video size:" = "Video size: ";
+
+"Photo size:" = "Photo size: ";
+
+"Duration:" = "Duration: ";
+
+"Path Copied" = "Path Copied";
+
+"Asset not found" = "Original file not found.";
+
+"upload" = "Upload";
+
+"re-upload" = "Re-Upload";
+
+"stop uploading" = "Stop Uploading";
+
+"Start at:" = "Start at:";
+
+"Incorrect Password" = "Incorrect account or password.";
+
+"Incorrect Password2" = "Incorrect password.";
+
+"Incorrect current password" = "Incorrect current password.";
+
+"Choose country/region" = "Please choose country or region";
+
+"Choose country/region first" = "Please choose country or region first.";
+
+"e.g. %@" = "e.g. %1$@";
+
+"Failed verify security code" = "Failed to verify the security code. Please make sure the code is correct, and try again.";
+
+"User already registered successfully." = "Account has been verified! Please go back to \"Settings\" and choose \"Connect to computer\" to connect.";
+
+"Error on verifying security code. %@" = "An error occurred while verifying security code. %@";
+
+"Can not connect to server and try later" = "Cannot connect to the server. Please try again later.";
+
+"No registration data and need register" = "No registration data. Please go back and register again.";
+
+"No computer ever connected" = "Install and setup Filelug on your desktop or laptop computer before connecting.";
+
+"No computer to delete" = "No computer available to delete.";
+
+"Choose Computer Name" = "Please choose the connecting computer.";
+
+"Choose the Computer To Delete"= "Please choose a computer to delete.";
+
+"Error on fetching computer information. Try again later." = "Error occurred while fetching computer information. Try again later.";
+
+"Failed to connect to computer. %@ Status:%d" = "Failed to connect to computer.\n%1$@\nStatus:%2$d";
+
+"Error on moving file to file sharing.%@" = "An error occurred while moving file to the device sharing folder.\n%@";
+
+"Error on copying file with error %@" = "Failed to copy file. Please try again later.\n%@";
+
+"Error on creating directory with error %@" = "Failed to create folder. Please try again later.\n%@";
+
+"Successfully copy file %1$@ to file sharing." = "You are now able to get file \"%1$@\" using iTunes File Sharing.";
+
+"Moved to file sharing" = "Moved to device sharing folder.";
+
+"File %1$@ is preparing." = "File \"%1$@\" is saving. Try again later";
+
+"About File Sharing URL Suffix" = "";
+
+"Share this file with your nearby computer" = "Click on the file and you can copy it using iTunes File Sharing.";
+
+"Downloaded Files" = "Downloaded Files";
+
+"Error on finding directories and files.%1$@" = "An error occurred while finding directories and files.\n%1$@";
+
+"Upload File" = "Upload File";
+
+"Upload List" = "Upload List";
+
+"To Directory" = "To Directory";
+
+"Save To File Name" = "Save To File Name";
+
+"Error on download file." = "An error occurred while downloading the file.";
+
+"Error on upload file '%@'. %@" = "An error occurred while uploading the file \"%@\".\n%@";
+
+"Error on upload file." = "An error occurred while uploading the file.";
+
+"File name exists" = "File name already exists.";
+
+"File name %@ exists and still copy to file sharing" = "File \"%@\" already exists in the sharing folder. Do you want to replace it with this file?";
+
+"Copy again" = "Copy again";
+
+"Confirm to buy:%@" = "Are you sure you want to buy\n%@ ?";
+
+"Restricted from accessing the App Store." = "You are restricted from accessing the App Store.";
+
+"Product is off the shelf" = "The product has been removed. Please go back and choose another one.";
+
+"Connect and reopen application" = "You have un-completed purchases. Please reconnect to your computer and then re-open the app again.";
+
+"How To 1 Image" = "Tutorial_1_en";
+
+"How To 2 Image" = "Tutorial_2_en";
+
+"How To 3 Image" = "Tutorial_3_en";
+
+"How To 4 Image" = "Tutorial_4_en";
+
+"How To 5 Image" = "Tutorial_5_en";
+
+"How To 1 Text" = "Please sign in with your phone number.";
+
+"How To 2 Text" = "On your desktop or laptop computer, download and install the application from the web page at \"filelug.com/p.html\".";
+
+"How To 3 Text" = "Please start the application you just installed and wait for the QR code to display on the screen.";
+
+"How To 4 Text" = "Connect to your computer by scanning the QR code from the Filelug App on your mobile device.";
+
+"How To 5 Text" = "Start to download and upload files with Filelug App.";
+
+"Country or region" = "Country/Region";
+
+"Phone number" = "Phone Number";
+
+"Nickname" = "Nickname";
+
+"Computer Name" = "Computer Name";
+
+"Add New Account" = "Add New Account";
+
+"Register new account" = "Register New Account";
+
+"Delete Account" = "Delete Account";
+
+"Change Password" = "Change password";
+
+"Purchase failure with transaction id: %@. Try again." = "Failed to purchase additional capacity.\nTransaction id: %@.\nPlease try again.";
+
+"Purchase restored" = "Purchase restored.";
+
+"Change" = "Change";
+
+"Failed to change nickname" = "Failed to change nickname.\n%@";
+
+"Failed to change nickname2" = "Failed to change nickname.";
+
+"Failed to change upload directory" = "Failed to change upload directory.\n%@";
+
+"Failed to change upload directory2" = "Failed to change upload directory.";
+
+"Failed to change upload subdirectory value" = "Failed to change subdirectory description.\n%@";
+
+"Failed to change upload subdirectory value2" = "Failed to change subdirectory description.";
+
+"Failed to change upload description value" = "Failed to change upload description.\n%@";
+
+"Failed to change upload description value2" = "Failed to change upload description.";
+
+"Failed to change upload notification value" = "Failed to change upload notification.\n%@";
+
+"Failed to change upload notification value2" = "Failed to change upload notification.";
+
+"Failed to change download notification value" = "Failed to change download notification.\n%@";
+
+"Failed to change download notification value2" = "Failed to change download notification.";
+
+"Failed to change password" = "Failed to change password.\n%@";
+
+"Failed to change password2" = "Failed to change password.";
+
+"Current password can not be empty" = "Current password cannot be empty.";
+
+"New password can not be empty" = "New password cannot be empty.";
+
+"Confirm new password can not be empty" = "Confirm new password cannot be empty.";
+
+"New password does not match the confirm new password" = "New password does not match the confirmed new password.";
+
+"Password not changed" = "New password is the same as the current one.";
+
+"Not For Sale Product" = "(Product not for sale right now.)";
+
+"quantity" = "quantity";
+
+"File is under processing. Try again later." = "The file is processing. Please try again later.";
+
+"No such file." = "File not found.";
+
+"Error on deleting record." = "An error occurred while deleting record.";
+
+"Error on deleting file." = "Failed to delete file.";
+
+"Success deleting file." = "File deleted.";
+
+"Also remove the download file?" = "Remove the download file, too?";
+
+"Only remove upload record" = "Only remove the record from this list. No file has been deleted. No record is deleted in the uploads history.";
+
+"Add New Computer" = "Add New Computer";
+
+"Change connected computer" = "Change connected computer";
+
+"Finding connected computers" = "Finding connected computers. Please wait.";
+
+"Error on finding connected computers" = "An error occurred while finding connected computers.";
+
+"Error on deleting computer" = "An error occurred while deleting the computer.";
+
+"User never connected." = "Not connected.\nPlease go to \"%@\", then choose \"%@\" to connect to your computer, or add a new one.";
+
+"User never connected in extension" = "Not connected.\nPlease open Filelug, go to \"%@\", then choose \"%@\" to connect to your computer.";
+
+"Not login in extension and need login" = "You have not logged in.\nPlease open the Filelug App and login.";
+
+"User not found in the connection list." = "User not found on the connection list.";
+
+"Choose File" = "Choose File";
+
+"Photos and Videos" = "Photos and Videos";
+
+"Download process is still alive. Try again later." = "Download process is still running. Please try again later.";
+
+"from" = "from";
+
+"to" = "to";
+
+"transfer.history.search.latest 20" = "Last 20 files";
+
+"transfer.history.search.latest.week" = "Last 7 days";
+
+"transfer.history.search.latest.month" = "Last 30 days";
+
+"transfer.history.search.all" = "All";
+
+"Choose search range" = "Choose search range";
+
+"Error on synchronizing bookmarks." = "An error occurred while synchronizing bookmarks.";
+
+"Status code:" = "Status code: ";
+
+"desktop.need.upgrade" = "The current version of Filelug \"%@\" is older. Please upgrade to the latest version.";
+
+"desktop.need.upgrade2" = "The current version of Filelug is older. Please upgrade to the latest version.";
+
+"device.need.update" = "Please upgrade this App before connecting to the computer \"%@\".";
+
+"device.need.update2" = "Please upgrade this App before connecting to the computer.";
+
+"Failed to find the file." = "Failed to find the file.";
+
+"All Upload To Directory" = "Upload All To Folder";
+
+"Save As File Names (Click to Edit)" = "Save As File Names (Click to edit)";
+
+"(Multiple destinations)" = "(Multiple directories)";
+
+"File '%@' downloaded. Find the file information in Menu > Download File" = "File \"%@\" downloaded. Find the file information in Menu > Download File";
+
+"File '%@' is downloading and can't be selected now." = "File \"%@\" is downloading and cannot be selected right now.";
+
+"File '%@' is canceling download and can't be selected now." = "Download for file \"%@\" is canceling and it cannot be selected right now.";
+
+"Confirm reset password" = "Your password will be reset. Please use the new password to connect to your computer.\nAre you sure to reset the password?";
+
+"Reset password" = "Reset password";
+
+"Reset" = "Reset";
+
+"Donot bother" = "OK";
+
+"Error on resetting password. %@" = "An error occurred while resetting password. %@";
+
+"Register failed. Please try again later. %@" = "Registration failed. Please try again later.\n%@";
+
+"Successfully reset password" = "Password reset successfully! Please remember to update user's password to the following computers with the new password for valid connections:\n\n%@";
+
+"Successfully reset password2" = "Password reset successfully!";
+
+"Successfully change password" = "Password changed successfully! Please remember to update user's password to the following computers with the new password for valid connections:\n\n%@";
+
+"Successfully change password2" = "Password changed successfully!";
+
+"(Not Set)" = "(Not set yet)";
+
+"(Not Set2)" = "(Not set)";
+
+"%@ is not a valid email address." = "\"%@\" is not a valid email address.";
+
+"Email address can not be empty" = "Email address cannot be empty.";
+
+"Enter Security Code" = "Enter security code.";
+
+"Enter email security code" = "We have sent a security code to %@. Please enter the security code, then press \"%@\" to change your email address.";
+
+"Change email description" = "Enter new email address and press \"Send me security code\". We will send a security code to the new email address.";
+
+"Email Address" = "Email Address";
+
+"Enter email address here" = "Enter email address here";
+
+"Current Email Address" = "Current Email Address";
+
+"New Email Address" = "New Email Address";
+
+"Enter new email address here" = "Enter new email address here";
+
+"Send me security code" = "Send me security code";
+
+"Send me security code again" = "Send me security code again";
+
+"Security code can not be empty" = "Security code cannot be empty";
+
+"Successfully change email to %@" = "Successfully changed email to \"%@\"";
+
+"Failed to change email. Status:%d. %@" = "Failed to change email. Status:%d.\n%@";
+
+"Failed to change email." = "Failed to change email.";
+
+"Please fill in email address title" = "Please enter your email address.";
+
+"Please fill in email address message" = "If you lose your phone or tablet, you can use another user's Filelug App to reset the password by choosing \"%@\" > \"%@\". We will send the security code to this email address. Set up the email address now?";
+
+"Set it later" = "Remind me later.";
+
+"Don't remind me again" = "Don't remind me again.";
+
+"Set it now" = "Set it now";
+
+"The email is verified." = "The email is already verified.";
+
+"The email is verified and applied." = "The email is already valid. You don't need to verify it again.";
+
+"Menu" = "Menu";
+
+"Computer %@ not exists. Do you want to find other computers to connect?" = "Computer \"%@\" does not exist. Do you want to find other computers to connect to?";
+
+"Computer not exits. Go to find other computers" = "Computer does not exist. Please select \"%@\" > \"%@\" to choose another computer or add a new one.";
+
+"Find Computers" = "Find Computers";
+
+"Connecting to the computer" = "Connecting to the computer...";
+
+"Connecting to the computer %@" = "Connecting to computer \"%@\"";
+
+"Error on connecting to computer %@" = "An error occured connecting to computer \"%@\"";
+
+"Change phone number" = "Change phone number";
+
+"Change phone number description" = "Enter a new region and phone number and press \"Send me security code\". We will send the security code to your new phone number or email address. Please enter this security code, then press \"Change\" to change your phone number.";
+
+"Current Phone Number" = "Current Phone Number";
+
+"New Country/Region" = "New Country/Region";
+
+"New Phone Number" = "New Phone Number";
+
+"Enter phone number here" = "Enter phone number here.";
+
+"Enter new phone number here" = "Enter new phone number here.";
+
+"should.update.phone.number" = "Phone number \"%@\" is used by another user. Please change it to another one in \"%@\".";
+
+"should.update.phone.number2" = "Phone number is used by another user. Change it in the application \"%@\" > \"%@\".";
+
+"Never connected successfully" = "No connection data. Please connect to your computer first.";
+
+"Select current phone number" = "Select current phone number.";
+
+"Select current phone number first" = "Please select current phone number first.";
+
+"Enter password" = "Enter user password.";
+
+"Enter email" = "Enter user's email.";
+
+"I forget password" = "I have forgotten the password.";
+
+"New phone number can not be empty" = "New phone number can not be empty.";
+
+"Get security code first" = "Please press \"%@\" to get the security code first.";
+
+"Get security code again" = "Please press \"%@\" to get the new security code again.";
+
+"Successfully change phone number to %@" = "Successfully changed phone number to %@";
+
+"Successfully change phone number to %@ and auto relogin after %@ clicked" = "Successfully changed phone number to %@. We will login for you after you press \"%@\"";
+
+"Failed to change phone number. Status:%d. %@" = "Failed to change phone number. Status:%d. %@";
+
+"User not specified" = "User not specified.";
+
+"Choose User" = "Choose User";
+
+"Confirm Deleting User" = "After you delete the account \"%@\"(%@), all downloaded files and download/upload histories will be deleted. The account will not be used by other devices.\nAre you sure you want to delete the account?";
+
+"Delete this user" = "Delete this account.";
+
+"Failed to delete user. Status:%d. %@" = "Failed to delete the account.\nStatus: %d\n%@";
+
+"Reset computer application" = "\nThe Filelug application in the following computer(s) will restore the initial settings.  You need to scan the QR code on this computer in order to connect again:\n\n%@";
+
+"Confirm Delete" = "Confirm Delete";
+
+"Successfully deleted user and create new account" = "The account has been deleted successfully. You can create a new account now.";
+
+"Successfully deleted user and login other account" = "The account has been deleted successfully. You can choose another account to sign in or add a new account.";
+
+"exceed.download.size.limit" = "File size (%@) exceeds the download size limit.";
+
+"exceed.download.size.limit2" = "Size of the file \"%@\" exceeds the download size limit.";
+
+"exceed.upload.size.limit" = "File size (%@) exceeds the upload size limit.";
+
+"exceed.upload.size.limit2" = "Size of the file \"%@\" exceeds the upload size limit.";
+
+"exceed.upload.size.limit3" = "Cannot upload the following files.\nFile size too large:%@";
+
+"File Too Large" = "File Too Large";
+
+"Registered Successfully" = "Registered Successfully!";
+
+"Install and setup Filelug on desktop or laptop" = "Now install and setup Filelug on your desktop or laptop computer, and then select \"%@\" > \"%@\" to add a new computer.";
+
+"Install and setup Filelug on desktop or laptop in extension" = "Now install and setup Filelug on your desktop or laptop computer, and then open the Filelug App on this device, go to \"%@\", then choose \"%@\" to connect to your computer.";
+
+"Login Successfully" = "Signed In Successful!";
+
+"Install and setup Filelug on desktop or laptop2" = "Now install and setup Filelug on your desktop or laptop computer before you press \"%@\" to add a new computer.";
+
+"Upload other selected files" = "Upload other selected files";
+
+"Upgrade desktop %@ first" = "The current version of Filelug on the computer \"%@\" is older. Please update to the latest version before  uploading files.";
+
+"Version Too Old" = "Version Too Old";
+
+"Upgrade desktop %@ before download file %@" = "Please upgrade Filelug on your computer \"%@\" to the latest version before you download \"%@\".";
+
+"View" = "View";
+
+"Accept" = "Accept";
+
+"File %@ downloaded successfully" = "File \"%@\" downloaded successfully!";
+
+"File downloaded successfully" = "File downloaded successfully!";
+
+"All files downloaded successfully" = "All files downloaded successfully!";
+
+"All files downloaded successfully2" = "All %ld files (%@ ...) uploaded successfully!";
+
+"Failed to download file %@" = "Failed to download file \"%@\".";
+
+"Failed to download file %@. Try again later" = "Failed to download file \"%@\". Please try again later.";
+
+"Failed to download file" = "Failed to download file.";
+
+"Directory to save" = "Directory to save.";
+
+"Included in a subdirectory" = "Included in a subdirectory.";
+
+"Description" = "Description";
+
+"Upload Notification" = "Upload Notification";
+
+"Download Notification" = "Download Notification";
+
+"Advanced Settings" = "Advanced Settings";
+
+"Files selected to upload" = "Files selected to upload.";
+
+"Files selected to upload (Total)" = "Files selected to upload. Total estimated size: %@";
+
+"Files selected to download" = "Files selected to download.";
+
+"Files selected to download (Total)" = "Files selected to download. Total size: %@";
+
+"Select to preview, or slide to remove from selection." = "Select to preview, or slide to remove from selection.";
+
+"Slide to remove from selection." = "Slide to remove the file from selection.";
+
+"(File not exists)" = "(File does not exist)";
+
+"Save To Computer" = "Save To Computer";
+
+"Files to save. Click to change filename" = "Files to save. Click to change filename.";
+
+"Change filename to:" = "Change filename to:";
+
+"Confirm Change" = "Confirm Change";
+
+"View Status" = "View Status";
+
+"Subdirectory Name" = "Subdirectory name to create";
+
+"Show hidden files" = "Show hidden files.";
+
+"Do not show hidden files" = "Do not show hidden files.";
+
+"Feedback from" = "[To Filelug Team] Suggestions from %@";
+
+"Are you sure to delete local cached data?" = "Are you sure to delete local cached data?";
+
+"Are you sure to delete computer %@ without downloaded file?" = "The Filelug application on computer \"%@\" will restore the initial settings. You need to scan the QR code in this computer in order to connect again.\n\nAre you sure you want to delete it?";
+
+"Are you sure to delete computer %@ with downloaded file?" = "The downloaded files from computer \"%@\" will be deleted and the Filelug application on this computer will restore the initial settings after you delete it. You need to scan the QR code on this computer in order to connect again.\n\nAre you sure you want to delete it?";
+
+"No subdirectory" = "No subdirectory";
+
+"Current timestamp" = "Current timestamp";
+
+"Customized name" = "Customized name";
+
+"Current timestamp + Customized name" = "Current timestamp + Customized name";
+
+"Customized name + Current timestamp" = "Customized name + Current timestamp";
+
+"No description" = "No description";
+
+"Filename list" = "Filename list";
+
+"Customized description" = "Customized description";
+
+"Customized description + Filename list" = "Customized description + Filename list";
+
+"No notification" = "No notification";
+
+"On each file" = "On each file";
+
+"On all files" = "On all files";
+
+"Choose type of subdirectory" = "Choose subdirectory type.";
+
+"Choose type of description" = "Choose type of description.";
+
+"Choose type of upload notification" = "Choose type of upload notification.";
+
+"Choose type of download notification" = "Choose type of download notification.";
+
+"Browse File" = "Browse File";
+
+"Enter customized name" = "Enter customized name.";
+
+"Empty subdirectory name" = "Subdirectory name can't be empty.";
+
+"Directory name can't contain the following character(s): %@" = "Directory name can't contain the following character(s):\n%@";
+
+"Directory name can't contain only punctuation characters." = "Directory name can't contain only punctuation characters.";
+
+"Filename can't contain the following character(s): %@" = "Filename can't contain the following character(s): %@";
+
+"Filename can't contain only punctuation characters." = "Filename can't contain only punctuation characters.";
+
+"Filename already exists: %@" = "Filename already exists: %@";
+
+"Empty description" = "Description can't be empty.";
+
+"Upload Summary" = "Upload Summary";
+
+"Download Summary" = "Download Summary";
+
+"Enter customized description" = "Enter customized description";
+
+"New Folder" = "New Folder";
+
+"Filename List" = "Files Upload List";
+
+"Alblum_All Photos" = "All Photos";
+
+"Upload Information" = "Upload Information";
+
+"Upload Group Information" = "Upload Group Information";
+
+"Upload To Computer" = "Upload To Computer";
+
+"Upload Path" = "Upload Path";
+
+"Start Upload Timestamp" = "Start Upload Timestamp";
+
+"End Upload Timestamp" = "End Upload Timestamp";
+
+"Upload Status" = "Upload Status";
+
+"File Uploaded Size" = "Uploaded Size";
+
+"Uncategorized" = "** Uncategorized **";
+
+"Failed to rename file to: %@" = "Failed to rename file to:\n%@";
+
+"Browse" = "Browse";
+
+"Filelug is a rapid and secure system to transfer files between devices and computers." = "Filelug is a rapid and secure system to transfer files between devices and computers.";
+
+"New User? Register an account" = "New User? Register an account.";
+
+"Already registered? Login now" = "Already registered? Sign in now.";
+
+"Getting Started with Filelug" = "Getting Started with Filelug";
+
+"Allow Notifications" = "Allow Notifications";
+
+"Turn on Notifications" = "If you would like to receive a notification when the file is delivered or received, please select \"Allow\" when you are asked later to allow the notification.";
+
+"Step-by-step descriptions" = "Step-by-step descriptions";
+
+"Account and Computer" = "Account and Computer";
+
+"Deletion" = "Deletion";
+
+"Delete" = "Delete";
+
+"Current Account" = "Current Account";
+
+"Current Computer" = "Current Computer";
+
+"Manage Current Account" = "Manage Current Account";
+
+"Manage Current Computer" = "Manage Current Computer";
+
+"Setting Upload Group" = "Set Upload Information";
+
+"Setting Download Group" = "Set Download Information";
+
+"Profiles" = "Profiles";
+
+"File Browse" = "File Browse";
+
+"File Upload" = "File Upload";
+
+"File Download" = "File Download";
+
+"Task" = "Task";
+
+"History" = "History";
+
+"About" = "About";
+
+"email" = "Email";
+
+"email(not verified)" = "Email (Not Verified)";
+
+"If Show Hidden Files" = "Show Hidden Files?";
+
+"Upload Directory" = "Upload Directory";
+
+"Delete Local Cached Data" = "Delete Local Cached Data";
+
+"Delete Computer" = "Delete Computer";
+
+"Downloaded Files History" = "Downloaded Files History";
+
+"Uploaded Files History" = "Uploaded Files History";
+
+"Getting Started with Filelug" = "Getting Started with Filelug";
+
+"Write Your Feedback" = "Write Your Feedback";
+
+"Rate Filelug on App Store" = "Rate Filelug on App Store";
+
+"Terms of Service" = "Terms of Service";
+
+"Privacy Policy" = "Privacy Policy";
+
+"App Version" = "App Version";
+
+"Want to allow access photos later" = "If you want to allow access to photos, open App \"Settings\", choose \"Filelug\", and allow Filelug to access Photos.";
+
+"Want to allow access photos again" = "To choose photos to upload to your computer, please open App \"Settings\", choose \"Filelug\", and allow Filelug to access Photos.";
+
+"Let Filelug Notify?" = "Allow notifications for Filelug?";
+
+"Filelug notifies when finished transfer of files." = "If you choose \"%@\", Filelug notifies you when files are uploaded and downloaded. If you choose \"%@\", you can open Filelug and check the transfer status of files. ";
+
+"Want to allow notification later" = "If you want to allow notifications later, open App \"Settings\", choose \"Filelug\", and allow notifications.";
+
+"Can't %@" = "Can't %@";
+
+"File %@ not finished %@, try later" = "File \"%@\" is %@. You can wait until it is finished %@, or you can cancel %@ the file and try again.";
+// "File %@ not finished %@, try later" = "File \"%@\" is %@. Please try again later, or delete the file %@ and try again.";
+
+"downloading" = "downloading...";
+
+"download2" = "download";
+
+"uploading" = "uploading...";
+
+"upload2" = "upload";
+
+"User canceled." = "User canceled.";
+
+"Select a folder or file" = "Select a folder or file";
+
+"Security Code" = "Security Code";
+
+"Security code sent description" = "We have sent you a text message with a security code to the phone number. Please enter this security code in the following area and press \"Verify\".";
+
+"Not received security code description" = "If you have waited for a while and still haven't received the text message from us, click \"Send Security Code Again\" and we will send it again.";
+
+"Enter security code here." = "Enter security code here.";
+
+"Current Nickname" = "Current Nickname";
+
+"Change To" = "Change To";
+
+"New Nickname" = "New Nickname";
+
+"Enter new nickname here" = "Enter new nickname here";
+
+"Enter nickname here" = "Enter nickname here";
+
+"Current Password" = "Current Password";
+
+"New Password" = "New Password";
+
+"Confirm New Password" = "Confirm New Password";
+
+"Enter current password here" = "Enter current password here.";
+
+"Enter new password here" = "Enter new password.";
+
+"Enter new password here again" = "Enter new password again.";
+
+"Reset Password Description" = "Enter \"country/region\" and \"phone number\", then press \"Send me security code\". We will send a security code to your email address. Enter the security code, the new password, and then press \"Reset\" to reset your password.";
+
+"Copy Path" = "Copy Path";
+
+"File Information" = "File Information";
+
+"Options" = "Options ...";
+
+"Reload it as a directory" = "Reload it as a directory";
+
+"Remove Uploaded Files" = "Remove Uploaded Files";
+
+"Remove File Upload" = "Remove File";
+
+"Smart Album Recently Deleted" = "Recently Deleted";
+
+"Confirm your email and nickname to complete login process" = "Confirm your email and nickname, and tap \"Send\" to complete the login process.";
+
+"Enter your email and nickname to complete your registration" = "Enter your email and nickname, and tap \"Send\" to complete your registration.";
+
+"User Profiles" = "User Profiles";
+
+"Failed to change user profiles." = "Failed to change user profiles.";
+
+"Send" = "Send";
+
+"Wrong Login Account" = "Inconsistent Account";
+
+"Describe wrong login account" = "The account you want to use is \"%@\", but is signed in with another account \"%@\". Please sign in with the correct account.";
+
+"Failed to confirm the status of download." = "Failed to confirm the status of download.";
+
+"Failed to confirm the status of upload." = "Failed to confirm the status of upload.";
+
+"Description of connecting to computer introduction" = "We'll help you set up a new computer. It takes only a few steps.";
+
+"Description of connecting to computer installation" = "On your desktop or laptop computer, download and install the application from the web page at \"filelug.com/p.html\".";
+
+"Description of connecting to computer startup" = "Start the application you just installed and wait for the QR code to display on the screen. The QR code looks like the one below.";
+
+"Description of connecting to computer with QRCode scanning" = "Align the scan area below with the QR Code on your computer and wait a few moments.";
+
+"Refresh QR code"="Refresh QR code";
+
+"Expired QR code and need refresh" = "The QR code has expired. Click the button \"Refresh QR code\" in the QR code window of the computer you want to connect to and then scan the new QR code again.";
+
+"Connected to the computer %@ successfully" = "Connected to the computer \"%@\" successfully!";
+
+"Title Installation" = "Installation";
+
+"Title Startup" = "Startup";
+
+"Title Scan" = "Scan";
+
+"Previous Step" = "Previous";
+
+"Next Step" = "Next";
+
+"New Computer" = "New Computer";
+
+"Authenticate Before Deleting Account" = "To prevent your Filelug account from being hacked, you need to press \"%@\" to complete the identification process before deleting an account.";
+
+"Incorrect value of verification" = "Incorrect value of verification.";
+
+"Incorrect security code and try again" = "Incorrect security code. Please try again.";
+
+"Session not found try later" = "Session not found. Please try again later.";
+
+"Enter new name of the computer with length limit" = "Enter the new name of the computer.\nLength of the computer name must be between %d and %d.";
+
+"Incorrect length of the name" = "The length of the computer name must be between %d and %d.";
+
+"Failed to change computer name. Status:%d. %@" = "Failed to change the name of the computer.\nStatus:%d\n%@";
+
+"Successfully change computer name to %@" = "Successfully changed name of the computer to \"%@\"";
+
+"From Computer %@" = ", from %@";
+
+"File is uploading and cannot be deleted." = "The file is uploading and cannot be deleted. If you really want to delete this file now, stop uploading it first.";
+
+"File failed to upload and cannot upload it again if deleted." = "You tried to upload the file before but failed. If you delete the file, you cannot upload it again. Do you really want to delete it?";
+
+"File failed to upload to computer %@ and cannot upload it again if deleted." = "You tried to upload the file to computer \"%@\" before but failed. If you delete the file, you cannot upload it again. Do you really want to delete it?";
+
+"%@ failed to upload file to computer %@ and cannot upload it again if deleted." = "\"%@\" tried to upload the file to computer \"%@\" before but failed. If you delete the file, it cannot be uploaded again. Do you really want to delete it?";
+
+"File ever uploaded and cannot preview it if deleted." = "You uploaded the file before. If you delete the file, it cannot be previewed in the upload tab. Do you really want to delete it?";
+
+"File ever uploaded to computer %@ and cannot preview it if deleted." = "You uploaded the file before to computer \"%@\". If you delete the file, it cannot be previewed in the upload tab. Do you really want to delete it?";
+
+"%@ uploaded the file to computer %@ and cannot preview it if deleted." = "\"%@\" uploaded the file before to computer \"%@\". If you delete the file, it cannot be previewed in the upload tab. Do you really want to delete it?";
+
+"Demo computer upload rule." = "The files on this demo computer could be downloaded by anyone. Please do not upload piracy-sensitive files or upload files that contains inappropriate content.";

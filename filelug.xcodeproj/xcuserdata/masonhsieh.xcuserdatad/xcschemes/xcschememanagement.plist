@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>filelug.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Filelug.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>share.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>fileprovider.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>FilelugKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>docprovider.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>BD2D30081CB92AA200D645C6</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F519F1CD83BFA00C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F51AE1CD83BFA00C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F51C61CD83C5E00C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F51DB1CD83C8000C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F51EA1CD83C8000C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F52021CD83CAD00C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F52171CD83CE500C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F523B1CD8493200C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F524A1CD8493300C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F52621CD8496500C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F52711CD8496500C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F52891CD84A0C00C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD4F52981CD84A0C00C1D330</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD6AEEA01C856305003A7F7D</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BD6AEEC21C870560003A7F7D</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>BDADCF2A182B303600EA0A59</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+	</dict>
+</dict>
+</plist>

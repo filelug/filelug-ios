@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16C67" minimumToolsVersion="Xcode 7.0" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="AssetFile" representedClassName="AssetFile" syncable="YES">
+        <attribute name="assetURL" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="endTimestamp" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="resumeData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="serverDirectory" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="serverFilename" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="sourceType" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <attribute name="startTimestamp" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="thumbnail" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="totalSize" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="transferKey" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="transferredSize" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="transferredSizeBeforeResume" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="waitToConfirm" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <relationship name="fileUploadGroup" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="FileUploadGroup" inverseName="assetFiles" inverseEntity="FileUploadGroup" indexed="YES" syncable="YES"/>
+        <relationship name="userComputer" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="UserComputer" inverseName="assetFiles" inverseEntity="UserComputer" indexed="YES" syncable="YES"/>
+    </entity>
+    <entity name="Country" representedClassName="Country" syncable="YES">
+        <attribute name="countryCode" attributeType="String" syncable="YES"/>
+        <attribute name="countryId" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="countryName" attributeType="String" syncable="YES"/>
+        <attribute name="phoneSample" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="FileDownloadGroup" representedClassName="FileDownloadGroup" syncable="YES">
+        <attribute name="createTimestamp" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <attribute name="downloadGroupId" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="notificationType" attributeType="Integer 32" defaultValueString="2" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="fileTransfers" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="FileTransfer" inverseName="fileDownloadGroup" inverseEntity="FileTransfer" syncable="YES"/>
+        <relationship name="userComputer" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="UserComputer" inverseName="fileDownloadGroups" inverseEntity="UserComputer" syncable="YES"/>
+    </entity>
+    <entity name="FileTransfer" representedClassName="FileTransfer" syncable="YES">
+        <attribute name="actionsAfterDownload" optional="YES" attributeType="String" defaultValueString="NO" syncable="YES"/>
+        <attribute name="contentType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="displaySize" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="endTimestamp" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="hidden" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <attribute name="lastModified" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="localPath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notification_type" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="realServerPath" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="resumeData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="serverPath" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="startTimestamp" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="totalSize" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="transferKey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="transferredSize" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="waitToConfirm" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <relationship name="fileDownloadGroup" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="FileDownloadGroup" inverseName="fileTransfers" inverseEntity="FileDownloadGroup" syncable="YES"/>
+        <relationship name="userComputer" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="UserComputer" inverseName="fileTransfers" inverseEntity="UserComputer" indexed="YES" syncable="YES"/>
+    </entity>
+    <entity name="FileUploadGroup" representedClassName="FileUploadGroup" syncable="YES">
+        <attribute name="createdInDesktopStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="createdInDesktopTimestamp" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <attribute name="createTimestamp" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <attribute name="descriptionType" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="descriptionValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notificationType" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="subdirectoryName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subdirectoryType" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="uploadGroupDirectory" attributeType="String" syncable="YES"/>
+        <attribute name="uploadGroupId" attributeType="String" indexed="YES" syncable="YES"/>
+        <relationship name="assetFiles" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="AssetFile" inverseName="fileUploadGroup" inverseEntity="AssetFile" indexed="YES" syncable="YES"/>
+        <relationship name="userComputer" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="UserComputer" inverseName="fileUploadGroups" inverseEntity="UserComputer" indexed="YES" syncable="YES"/>
+    </entity>
+    <entity name="HierarchicalModel" representedClassName="HierarchicalModel" syncable="YES">
+        <attribute name="contentType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="displaySize" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="executable" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="hidden" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <attribute name="lastModified" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" indexed="YES" spotlightIndexingEnabled="YES" syncable="YES"/>
+        <attribute name="parent" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="readable" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="realName" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="realParent" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="sectionName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sizeInBytes" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="symlink" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="writable" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="userComputer" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="UserComputer" inverseName="hierarchicalModels" inverseEntity="UserComputer" indexed="YES" syncable="YES"/>
+    </entity>
+    <entity name="Purchase" representedClassName="Purchase" syncable="YES">
+        <attribute name="pending" attributeType="Boolean" defaultValueString="YES" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <attribute name="productId" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="purchaseId" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="purchaseTimestamp" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="quantity" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="vendorTransactionId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vendorUserId" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="user" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="User" inverseName="purchases" inverseEntity="User" indexed="YES" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="active" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <attribute name="countryId" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nickname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phoneNumber" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="userId" attributeType="String" indexed="YES" syncable="YES"/>
+        <relationship name="purchases" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Purchase" inverseName="user" inverseEntity="Purchase" indexed="YES" syncable="YES"/>
+        <relationship name="userComputers" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="UserComputer" inverseName="user" inverseEntity="UserComputer" indexed="YES" syncable="YES"/>
+    </entity>
+    <entity name="UserComputer" representedClassName="UserComputer" syncable="YES">
+        <attribute name="computerAdminId" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="computerGroup" attributeType="String" syncable="YES"/>
+        <attribute name="computerId" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" indexed="YES" syncable="YES"/>
+        <attribute name="computerName" attributeType="String" syncable="YES"/>
+        <attribute name="downloadDescriptionType" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="downloadDescriptionValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="downloadDirectory" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="downloadNotificationType" optional="YES" attributeType="Integer 16" defaultValueString="2" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="downloadSubdirectoryType" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="downloadSubdirectoryValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="showHidden" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="uploadDescriptionType" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="uploadDescriptionValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="uploadDirectory" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="uploadNotificationType" optional="YES" attributeType="Integer 16" defaultValueString="2" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="uploadSubdirectoryType" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="uploadSubdirectoryValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userComputerId" attributeType="String" indexed="YES" syncable="YES"/>
+        <relationship name="assetFiles" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="AssetFile" inverseName="userComputer" inverseEntity="AssetFile" indexed="YES" syncable="YES"/>
+        <relationship name="fileDownloadGroups" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="FileDownloadGroup" inverseName="userComputer" inverseEntity="FileDownloadGroup" syncable="YES"/>
+        <relationship name="fileTransfers" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="FileTransfer" inverseName="userComputer" inverseEntity="FileTransfer" indexed="YES" syncable="YES"/>
+        <relationship name="fileUploadGroups" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="FileUploadGroup" inverseName="userComputer" inverseEntity="FileUploadGroup" indexed="YES" syncable="YES"/>
+        <relationship name="hierarchicalModels" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="HierarchicalModel" inverseName="userComputer" inverseEntity="HierarchicalModel" indexed="YES" syncable="YES"/>
+        <relationship name="user" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="User" inverseName="userComputers" inverseEntity="User" indexed="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="AssetFile" positionX="0" positionY="0" width="128" height="285"/>
+        <element name="Country" positionX="18" positionY="135" width="128" height="105"/>
+        <element name="FileDownloadGroup" positionX="18" positionY="162" width="128" height="120"/>
+        <element name="FileTransfer" positionX="0" positionY="0" width="128" height="345"/>
+        <element name="FileUploadGroup" positionX="9" positionY="153" width="128" height="225"/>
+        <element name="HierarchicalModel" positionX="0" positionY="0" width="128" height="285"/>
+        <element name="Purchase" positionX="9" positionY="144" width="128" height="163"/>
+        <element name="User" positionX="0" positionY="0" width="128" height="165"/>
+        <element name="UserComputer" positionX="9" positionY="126" width="128" height="405"/>
+    </elements>
+</model>

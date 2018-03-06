@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ConnectToComputerStartupViewController">
+            <connections>
+                <outlet property="currentStepButtonItem" destination="Fnx-EX-fEC" id="YnN-j5-D2m"/>
+                <outlet property="tableView" destination="LHw-nv-AN8" id="4dv-t1-atp"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" style="plain" separatorStyle="default" allowsSelection="NO" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="LHw-nv-AN8">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="623"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="2lp-98-iga"/>
+                        <outlet property="delegate" destination="-1" id="ht7-0T-wYw"/>
+                    </connections>
+                </tableView>
+                <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="wdp-LR-acJ">
+                    <rect key="frame" x="0.0" y="623" width="375" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="HoQ-It-1CG"/>
+                    </constraints>
+                    <items>
+                        <barButtonItem image="number-1-inactive" id="LGs-tO-stD"/>
+                        <barButtonItem image="number-2-active" id="ZZE-2n-lxT"/>
+                        <barButtonItem title="Startup" id="Fnx-EX-fEC"/>
+                        <barButtonItem style="plain" systemItem="flexibleSpace" id="OOU-dh-8Ta"/>
+                        <barButtonItem image="number-3-inactive" id="lGd-ft-AYm"/>
+                    </items>
+                </toolbar>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="LHw-nv-AN8" secondAttribute="trailing" id="4nK-WV-ruE"/>
+                <constraint firstAttribute="trailing" secondItem="wdp-LR-acJ" secondAttribute="trailing" id="5Rj-lj-iC0"/>
+                <constraint firstItem="LHw-nv-AN8" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="dX1-hQ-9dt"/>
+                <constraint firstItem="LHw-nv-AN8" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="g4I-gb-czB"/>
+                <constraint firstItem="wdp-LR-acJ" firstAttribute="top" secondItem="LHw-nv-AN8" secondAttribute="bottom" id="lZf-tO-es1"/>
+                <constraint firstAttribute="bottom" secondItem="wdp-LR-acJ" secondAttribute="bottom" id="vfM-bc-eIj"/>
+                <constraint firstItem="wdp-LR-acJ" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="zii-pS-xpG"/>
+            </constraints>
+            <point key="canvasLocation" x="26.5" y="51.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="number-1-inactive" width="30" height="30"/>
+        <image name="number-2-active" width="30" height="30"/>
+        <image name="number-3-inactive" width="30" height="30"/>
+    </resources>
+</document>
